@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home (ES — also serves EN visitors until /en/index.html ships) -->
+  <url>
+    <loc>https://juliomorcillo.com/</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/"/>
+  </url>
+
+  <!-- Case studies (ES) -->
+  <url>
+    <loc>https://juliomorcillo.com/works/consentido.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/consentido.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/consentido.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/consentido.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/works/vi-summit.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/vi-summit.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/vi-summit.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/vi-summit.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/works/amxitech.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/amxitech.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/amxitech.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/amxitech.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/works/diamond-soft.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/diamond-soft.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/diamond-soft.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/diamond-soft.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/works/corber.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/corber.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/corber.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/corber.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/works/gbc.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/gbc.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/gbc.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/gbc.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/works/chint.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/chint.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/chint.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/chint.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/works/alfa-comunicaciones.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/alfa-comunicaciones.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/alfa-comunicaciones.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/alfa-comunicaciones.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/works/los-pollos-giros.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/los-pollos-giros.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/los-pollos-giros.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/los-pollos-giros.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/works/neuromuscular-mid.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/neuromuscular-mid.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/neuromuscular-mid.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/neuromuscular-mid.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/works/alma-gonzalez.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/alma-gonzalez.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/alma-gonzalez.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/alma-gonzalez.html"/>
+  </url>
+
+  <!-- Case studies (EN) -->
+  <url>
+    <loc>https://juliomorcillo.com/en/works/consentido.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/consentido.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/consentido.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/consentido.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/en/works/vi-summit.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/vi-summit.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/vi-summit.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/vi-summit.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/en/works/amxitech.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/amxitech.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/amxitech.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/amxitech.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/en/works/diamond-soft.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/diamond-soft.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/diamond-soft.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/diamond-soft.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/en/works/corber.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/corber.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/corber.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/corber.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/en/works/gbc.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/gbc.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/gbc.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/gbc.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/en/works/chint.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/chint.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/chint.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/chint.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/en/works/alfa-comunicaciones.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/alfa-comunicaciones.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/alfa-comunicaciones.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/alfa-comunicaciones.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/en/works/los-pollos-giros.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/los-pollos-giros.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/los-pollos-giros.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/los-pollos-giros.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/en/works/neuromuscular-mid.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/neuromuscular-mid.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/neuromuscular-mid.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/neuromuscular-mid.html"/>
+  </url>
+  <url>
+    <loc>https://juliomorcillo.com/en/works/alma-gonzalez.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://juliomorcillo.com/works/alma-gonzalez.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://juliomorcillo.com/en/works/alma-gonzalez.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://juliomorcillo.com/works/alma-gonzalez.html"/>
+  </url>
+
+</urlset>

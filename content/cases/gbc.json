@@ -1,0 +1,132 @@
+{
+  "slug": "gbc",
+  "meta": {
+    "client": "GBC",
+    "year": "2025",
+    "url": null,
+    "agency": "Intuitiva · Mérida",
+    "datePublished": "2025-03-01"
+  },
+  "i18n": {
+    "es": {
+      "hero": {
+        "eyebrow": "§ 01 — Brand rollout · construcción",
+        "title": "<em>GBC</em>",
+        "discipline": "Brand rollout · Print · Mockups",
+        "manifesto": "Bajada técnica de una <strong>identidad rebrandeada</strong> a aplicaciones corporativas reales para una empresa del sector construcción.",
+        "note": "Colaboración dentro de equipo reducido en Intuitiva. Mi rol fue producir aplicaciones, sistema de tarjetas y mockups fotorrealistas a partir de la dirección de arte definida.",
+        "caption": "El valor del proyecto está en validar la marca en su entorno real antes de salir a producción definitiva.",
+        "role": "Brand rollout designer · Arte final",
+        "scope": "Aplicaciones corporativas · Tarjetas · Mockups",
+        "keydata": [
+          "<b>Brandbook</b> confirmado",
+          "<b>Mockups</b> fotorrealistas",
+          "<b>Construcción</b> · B2B"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Bajada", "title": "Bajada <em>técnica</em>.", "note": "Aterrizaje técnico de la identidad a piezas corporativas.", "anchor": "#rollout", "lede": "Tomar el rebrand del estudio y bajarlo a piezas corporativas reales: tarjetas, papelería y soportes técnicos listos para uso interno." },
+        { "num": "§ 03", "label": "Tarjetas", "title": "Sistema de <em>tarjetas</em>.", "note": "Sistema de tarjetas de presentación B2B para el equipo.", "anchor": "#cards" },
+        { "num": "§ 04", "label": "Mockups", "title": "Validación en <em>mockup</em>.", "note": "Variantes fotorrealistas para validar el sistema en obra.", "anchor": "#mockups" },
+        { "num": "§ 05", "label": "Resultado", "title": "Lista para <em>campo</em>.", "note": "Una marca lista para corporativo y lista para campo.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "El rebrand sale del estudio — el reto era que sobreviviera al <em>polvo</em> de la obra.",
+        "sigKicker": "— Criterio de rollout",
+        "sigContext": "GBC · 2025",
+        "hint": "las aplicaciones validadas — tarjetas, mockups y sistema corporativo."
+      },
+      "production": {
+        "stats": [
+          { "value": "Brandbook", "label": "Confirmado", "wordValue": true },
+          { "value": "Mockups", "label": "Fotorrealistas", "wordValue": true },
+          { "value": "B2B", "label": "Sistema corporativo", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Aplicaciones", "detail": "Bajada técnica del sistema visual a piezas corporativas." },
+          { "title": "Tarjetas", "detail": "Sistema de presentación B2B para el equipo de obra y oficina." },
+          { "title": "Mockups", "detail": "Variantes fotorrealistas para validar el sistema antes de producción." },
+          { "title": "Soportes técnicos", "detail": "Materiales de identidad para uso interno y comercial." }
+        ]
+      },
+      "proofText": "Una identidad <em>aplicada</em> y validada antes de producción: tarjetas, mockups y aplicaciones listas para vivir en obra y oficina.",
+      "credits": [
+        { "label": "Cliente", "value": "GBC" },
+        { "label": "Industria", "value": "Construcción" },
+        { "label": "Rol", "value": "Brand rollout designer · arte final · mockups" },
+        { "label": "Agencia", "value": "Intuitiva · Mérida" },
+        { "label": "Año", "value": "2025" },
+        { "label": "Tipo", "value": "Colaboración · brandbook confirmado" }
+      ],
+      "seo": {
+        "title": "GBC — Caso de estudio · Julio Morcillo",
+        "description": "Bajada técnica del rebrand corporativo de GBC: tarjetas, mockups y aplicaciones para el sector construcción."
+      }
+    },
+    "en": {
+      "hero": {
+        "eyebrow": "§ 01 — Brand rollout · construction",
+        "title": "<em>GBC</em>",
+        "discipline": "Brand rollout · Print · Mockups",
+        "manifesto": "Technical rollout of a <strong>rebranded identity</strong> into real corporate applications for a construction company.",
+        "note": "Collaboration within a small Intuitiva team. My role was producing applications, the card system and photorealistic mockups from the defined art direction.",
+        "caption": "The value of the project lies in validating the brand in its real environment before going into final production.",
+        "role": "Brand rollout designer · Final art",
+        "scope": "Corporate applications · Cards · Mockups",
+        "keydata": [
+          "<b>Confirmed</b> brandbook",
+          "<b>Photorealistic</b> mockups",
+          "<b>Construction</b> · B2B"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Rollout", "title": "Technical <em>rollout</em>.", "note": "Technical landing of the identity into corporate pieces.", "anchor": "#rollout", "lede": "Taking the studio rebrand and landing it into real corporate pieces: cards, stationery and technical supports ready for internal use." },
+        { "num": "§ 03", "label": "Cards", "title": "The <em>card</em> system.", "note": "B2B business card system for the team.", "anchor": "#cards" },
+        { "num": "§ 04", "label": "Mockups", "title": "Validation in <em>mockup</em>.", "note": "Photorealistic variants to validate the system on site.", "anchor": "#mockups" },
+        { "num": "§ 05", "label": "Result", "title": "Ready for <em>the field</em>.", "note": "A brand ready for corporate and ready for the field.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "The rebrand leaves the studio — the challenge was for it to survive the <em>dust</em> on site.",
+        "sigKicker": "— Rollout criterion",
+        "sigContext": "GBC · 2025",
+        "hint": "the validated applications — cards, mockups and corporate system."
+      },
+      "production": {
+        "stats": [
+          { "value": "Brandbook", "label": "Confirmed", "wordValue": true },
+          { "value": "Mockups", "label": "Photorealistic", "wordValue": true },
+          { "value": "B2B", "label": "Corporate system", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Applications", "detail": "Technical rollout of the visual system into corporate pieces." },
+          { "title": "Cards", "detail": "B2B card system for site and office team." },
+          { "title": "Mockups", "detail": "Photorealistic variants to validate the system before production." },
+          { "title": "Technical supports", "detail": "Identity materials for internal and commercial use." }
+        ]
+      },
+      "proofText": "An <em>applied</em>, validated identity before production: cards, mockups and applications ready to live on site and in the office.",
+      "credits": [
+        { "label": "Client", "value": "GBC" },
+        { "label": "Industry", "value": "Construction" },
+        { "label": "Role", "value": "Brand rollout designer · final art · mockups" },
+        { "label": "Agency", "value": "Intuitiva · Mérida" },
+        { "label": "Year", "value": "2025" },
+        { "label": "Type", "value": "Collaboration · confirmed brandbook" }
+      ],
+      "seo": {
+        "title": "GBC — Case study · Julio Morcillo",
+        "description": "Technical rollout of GBC's corporate rebrand: cards, mockups and applications for the construction sector."
+      }
+    }
+  },
+  "prev": {
+    "slug": "alfa-comunicaciones",
+    "title": { "es": "Alfa <em>Comunicaciones</em>", "en": "Alfa <em>Comunicaciones</em>" },
+    "meta": { "es": "Identidad · telecomunicaciones", "en": "Identity · telecommunications" }
+  },
+  "next": {
+    "slug": "corber",
+    "title": { "es": "<em>Corber</em>", "en": "<em>Corber</em>" },
+    "meta": { "es": "Contenido digital · agroexportación", "en": "Digital content · agribusiness" }
+  }
+}

@@ -1,0 +1,60 @@
+# =====================================================================
+# Portafolio Julio Morcillo — .gitignore
+# Static site deployed to GitHub Pages from main / root
+# =====================================================================
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node tooling (only used build-time for optimize-images.mjs)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Claude / AI tooling — local only
+.claude/
+.qodo/
+
+# Test + Playwright artifacts
+.playwright-cli/
+output/
+test-results/
+
+# Uploads scratch (drag-drop staging — not for repo)
+uploads/
+
+# Image pipeline temp
+/assets/images/_originals/_temp/
+
+# Heavy video drafts — not referenced from any HTML/CSS/JS in the site.
+# If a video ships to production, host it via CDN/Vimeo and reference by URL.
+# (.gitkeep preserves the empty directory in repo.)
+assets/videos/*.mp4
+assets/videos/*.mov
+assets/videos/*.webm
+assets/videos/*.avi
+assets/videos/*.mkv
+
+# Backup HTMLs (kept locally, not shipped)
+works/*backup*.html
+*backup*.html
+
+# Zips / archives
+*.zip
+*.tar
+*.tar.gz
+
+# Env / secrets (precaution — proyecto vanilla no usa, pero por si acaso)
+.env
+.env.*
+!.env.example

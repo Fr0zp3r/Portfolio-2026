@@ -1,0 +1,132 @@
+{
+  "slug": "corber",
+  "meta": {
+    "client": "Corber",
+    "year": "2024–2025",
+    "url": null,
+    "agency": "Intuitiva · Mérida",
+    "datePublished": "2025-02-01"
+  },
+  "i18n": {
+    "es": {
+      "hero": {
+        "eyebrow": "§ 01 — Contenido digital · agroexportación",
+        "title": "<em>Corber</em>",
+        "discipline": "Contenido digital · Copy · Video",
+        "manifesto": "Dinamización de marca para una <strong>empresa de agroexportación</strong>: copy, artes y reels para sostener una comunicación constante sin estructura formal de marketing.",
+        "note": "Colaboración / ejecución de contenido en Intuitiva. Redacción, diseño gráfico y producción de video para explicar beneficios de producto y mantener la marca activa.",
+        "caption": "El objetivo no fue rebrandear: fue construir voz y ritmo digital donde antes había silencio.",
+        "role": "Content designer · Copywriter · Video creator",
+        "scope": "Reels · Artes · Copy · Comunicación de producto",
+        "keydata": [
+          "<b>Cadencia</b> digital sostenida",
+          "<b>Copy</b> + artes + reels",
+          "<b>Agroexportación</b>"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Voz", "title": "La <em>voz</em> del producto.", "note": "Copy y mensajes para articular beneficios de producto.", "anchor": "#voice", "lede": "Escribir mensajes que expliquen el producto sin caer en jerga agroexportadora — directos, claros, con cadencia." },
+        { "num": "§ 03", "label": "Artes", "title": "<em>Artes</em> en cadencia.", "note": "Piezas gráficas constantes para alimentar canales digitales.", "anchor": "#graphics" },
+        { "num": "§ 04", "label": "Reels", "title": "<em>Reels</em> para campo.", "note": "Producción de video corto orientado a producto y campo.", "anchor": "#reels" },
+        { "num": "§ 05", "label": "Resultado", "title": "Marca con <em>ritmo</em>.", "note": "Una marca con presencia digital sostenida y tono propio.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "Sin estructura de marketing, lo que sostiene una marca es <em>cadencia</em>.",
+        "sigKicker": "— Criterio de contenido",
+        "sigContext": "Corber · 2024–2025",
+        "hint": "el inventario de piezas — copy, artes, reels y comunicación de producto."
+      },
+      "production": {
+        "stats": [
+          { "value": "Cadencia", "label": "Digital sostenida", "wordValue": true },
+          { "value": "Copy + Artes", "label": "Sin estructura previa", "wordValue": true },
+          { "value": "Reels", "label": "Producción de video", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Copy", "detail": "Redacción de mensajes y tono para canales digitales." },
+          { "title": "Artes gráficos", "detail": "Piezas constantes para alimentar redes con frecuencia." },
+          { "title": "Reels", "detail": "Producción de video corto orientado a producto y campo." },
+          { "title": "Comunicación", "detail": "Beneficios de producto traducidos a piezas claras." }
+        ]
+      },
+      "proofText": "Una marca con presencia digital sostenida y <em>tono propio</em>, construida pieza a pieza sin depender de campaña.",
+      "credits": [
+        { "label": "Cliente", "value": "Corber" },
+        { "label": "Industria", "value": "Agroexportación" },
+        { "label": "Rol", "value": "Content designer · copywriter · video creator" },
+        { "label": "Agencia", "value": "Intuitiva · Mérida" },
+        { "label": "Año", "value": "2024–2025" },
+        { "label": "Tipo", "value": "Colaboración · ejecución de contenido" }
+      ],
+      "seo": {
+        "title": "Corber — Caso de estudio · Julio Morcillo",
+        "description": "Contenido digital para una empresa de agroexportación: copy, artes gráficos y reels con cadencia digital sostenida."
+      }
+    },
+    "en": {
+      "hero": {
+        "eyebrow": "§ 01 — Digital content · agribusiness export",
+        "title": "<em>Corber</em>",
+        "discipline": "Digital content · Copy · Video",
+        "manifesto": "Brand activation for an <strong>agribusiness export</strong> company: copy, graphics and reels to sustain constant communication without a formal marketing structure.",
+        "note": "Content collaboration / execution at Intuitiva. Copywriting, graphic design and video production to explain product benefits and keep the brand active.",
+        "caption": "The goal wasn't a rebrand: it was building voice and digital rhythm where there had been silence.",
+        "role": "Content designer · Copywriter · Video creator",
+        "scope": "Reels · Graphics · Copy · Product communication",
+        "keydata": [
+          "<b>Sustained</b> digital cadence",
+          "<b>Copy</b> + graphics + reels",
+          "<b>Agribusiness</b> export"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Voice", "title": "The product's <em>voice</em>.", "note": "Copy and messages to articulate product benefits.", "anchor": "#voice", "lede": "Writing messages that explain the product without falling into agribusiness jargon — direct, clear, with cadence." },
+        { "num": "§ 03", "label": "Graphics", "title": "<em>Graphics</em> in cadence.", "note": "Constant graphic pieces to feed digital channels.", "anchor": "#graphics" },
+        { "num": "§ 04", "label": "Reels", "title": "<em>Reels</em> from the field.", "note": "Short-form video production focused on product and field.", "anchor": "#reels" },
+        { "num": "§ 05", "label": "Result", "title": "A brand with <em>rhythm</em>.", "note": "A brand with sustained digital presence and a distinct tone.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "Without a marketing structure, what holds a brand together is <em>cadence</em>.",
+        "sigKicker": "— Content criterion",
+        "sigContext": "Corber · 2024–2025",
+        "hint": "the inventory — copy, graphics, reels and product communication."
+      },
+      "production": {
+        "stats": [
+          { "value": "Cadence", "label": "Sustained digital", "wordValue": true },
+          { "value": "Copy + Graphics", "label": "No prior structure", "wordValue": true },
+          { "value": "Reels", "label": "Video production", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Copy", "detail": "Message and tone writing for digital channels." },
+          { "title": "Graphics", "detail": "Consistent pieces to feed social channels with frequency." },
+          { "title": "Reels", "detail": "Short-form video production for product and field." },
+          { "title": "Communication", "detail": "Product benefits translated into clear pieces." }
+        ]
+      },
+      "proofText": "A brand with sustained digital presence and a <em>distinct tone</em>, built piece by piece without depending on a campaign.",
+      "credits": [
+        { "label": "Client", "value": "Corber" },
+        { "label": "Industry", "value": "Agribusiness export" },
+        { "label": "Role", "value": "Content designer · copywriter · video creator" },
+        { "label": "Agency", "value": "Intuitiva · Mérida" },
+        { "label": "Year", "value": "2024–2025" },
+        { "label": "Type", "value": "Collaboration · content execution" }
+      ],
+      "seo": {
+        "title": "Corber — Case study · Julio Morcillo",
+        "description": "Digital content for an agribusiness export company: copy, graphics and reels with sustained digital cadence."
+      }
+    }
+  },
+  "prev": {
+    "slug": "gbc",
+    "title": { "es": "<em>GBC</em>", "en": "<em>GBC</em>" },
+    "meta": { "es": "Brand rollout · construcción", "en": "Brand rollout · construction" }
+  },
+  "next": {
+    "slug": "chint",
+    "title": { "es": "<em>Chint</em>", "en": "<em>Chint</em>" },
+    "meta": { "es": "Contenido B2B · componentes eléctricos", "en": "B2B content · electrical components" }
+  }
+}

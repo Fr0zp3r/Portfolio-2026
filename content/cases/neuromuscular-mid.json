@@ -1,0 +1,136 @@
+{
+  "slug": "neuromuscular-mid",
+  "meta": {
+    "client": "Neuromuscular MID",
+    "year": "2025",
+    "url": "https://neuromuscularmid.com",
+    "agency": "Intuitiva · Mérida",
+    "datePublished": "2025-06-01"
+  },
+  "i18n": {
+    "es": {
+      "hero": {
+        "eyebrow": "§ 01 — UI/UX · web · salud",
+        "title": "Neuromuscular <em>MID</em>",
+        "discipline": "UI/UX · Web · Salud",
+        "manifesto": "Una experiencia digital <strong>cálida, clara y confiable</strong> para una clínica de fisioterapia en Mérida, enfocada en reserva de citas y claridad de servicios.",
+        "note": "Autoría principal de UI/UX y diseño web. Conceptualicé el motivo del corazón pixelado y construí la arquitectura completa de la landing.",
+        "caption": "Un balance entre calidez humana y credibilidad clínica para que el paciente entienda rápido qué se ofrece y cómo agendar.",
+        "role": "Lead UI/UX & Web designer",
+        "scope": "Landing · Reserva · Comunicación clínica",
+        "keydata": [
+          "<b>Sitio activo</b> · neuromuscularmid.com",
+          "<b>Reserva</b> de citas",
+          "<b>Salud</b> · fisioterapia"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Concepto", "title": "Un <em>concepto</em> que cuida.", "note": "Motivo del corazón pixelado como puente entre lo clínico y lo cercano.", "anchor": "#concept", "lede": "El corazón pixelado nació para puentear dos mundos: el rigor clínico de la fisioterapia y la calidez con la que el paciente necesita ser recibido." },
+        { "num": "§ 03", "label": "Estructura", "title": "Arquitectura para <em>entender</em>.", "note": "Arquitectura de información orientada a entendimiento rápido.", "anchor": "#structure", "lede": "Una landing que prioriza claridad: servicios, equipo y cómo agendar — sin obligar al paciente a buscar." },
+        { "num": "§ 04", "label": "Flujo", "title": "Reservar como acción <em>primaria</em>.", "note": "Reserva de citas como acción primaria del sitio.", "anchor": "#flow" },
+        { "num": "§ 05", "label": "Resultado", "title": "Sitio <em>activo</em>.", "note": "Un sitio activo en neuromuscularmid.com con voz de marca propia.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "En salud, lo que decide no es el efecto — es que el paciente <em>entienda</em> y agende sin fricción.",
+        "sigKicker": "— Criterio de UX clínico",
+        "sigContext": "Neuromuscular MID · 2025",
+        "hint": "el sitio activo — cómo se construyó el flujo de reserva y por qué se siente cálido."
+      },
+      "production": {
+        "stats": [
+          { "value": "1", "label": "Sitio · neuromuscularmid.com" },
+          { "value": "Reserva", "label": "Acción primaria", "wordValue": true },
+          { "value": "Cálido", "label": "Tono visual", "wordValue": true },
+          { "value": "Mérida", "label": "Clínica · fisioterapia", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Landing", "detail": "Sitio en neuromuscularmid.com con servicios, equipo y reserva." },
+          { "title": "Concepto visual", "detail": "Motivo del corazón pixelado como puente clínico-humano." },
+          { "title": "Flujo de reserva", "detail": "Acción primaria pensada para reducir fricción del paciente." },
+          { "title": "Comunicación clínica", "detail": "Piezas de social media bajo el sistema visual del sitio." },
+          { "title": "Responsive", "detail": "Adaptación completa para mobile, tablet y desktop." }
+        ]
+      },
+      "proofText": "Un sitio activo en <em>neuromuscularmid.com</em>: claridad clínica, calidez humana y un flujo de reserva que reduce fricción para el paciente.",
+      "credits": [
+        { "label": "Cliente", "value": "Neuromuscular MID" },
+        { "label": "Industria", "value": "Salud · fisioterapia" },
+        { "label": "Rol", "value": "Lead UI/UX & Web designer" },
+        { "label": "Agencia", "value": "Intuitiva · Mérida" },
+        { "label": "Año", "value": "2025" },
+        { "label": "Sitio", "value": "neuromuscularmid.com" }
+      ],
+      "seo": {
+        "title": "Neuromuscular MID — Caso de estudio · Julio Morcillo",
+        "description": "Diseño UI/UX y web design para una clínica de fisioterapia en Mérida. Sitio activo en neuromuscularmid.com."
+      }
+    },
+    "en": {
+      "hero": {
+        "eyebrow": "§ 01 — UI/UX · web · healthcare",
+        "title": "Neuromuscular <em>MID</em>",
+        "discipline": "UI/UX · Web · Healthcare",
+        "manifesto": "A <strong>warm, clear, trustworthy</strong> digital experience for a physiotherapy clinic in Mérida — focused on appointment booking and service clarity.",
+        "note": "Lead author of UI/UX and web design. I conceived the pixelated heart motif and built the full landing architecture.",
+        "caption": "A balance between human warmth and clinical credibility so patients quickly understand what's offered and how to book.",
+        "role": "Lead UI/UX & Web designer",
+        "scope": "Landing · Booking · Clinical communication",
+        "keydata": [
+          "<b>Live site</b> · neuromuscularmid.com",
+          "<b>Appointment</b> booking",
+          "<b>Healthcare</b> · physiotherapy"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Concept", "title": "A <em>concept</em> that cares.", "note": "Pixelated heart motif as a bridge between clinical and close.", "anchor": "#concept", "lede": "The pixelated heart was born to bridge two worlds: the clinical rigour of physiotherapy and the warmth a patient needs to feel on arrival." },
+        { "num": "§ 03", "label": "Architecture", "title": "Architecture to <em>understand</em>.", "note": "Information architecture built for fast understanding.", "anchor": "#structure", "lede": "A landing that prioritises clarity: services, team, and how to book — without forcing the patient to search." },
+        { "num": "§ 04", "label": "Flow", "title": "Booking as the <em>primary</em> action.", "note": "Appointment booking as the site's primary action.", "anchor": "#flow" },
+        { "num": "§ 05", "label": "Result", "title": "A <em>live</em> site.", "note": "A live site at neuromuscularmid.com with its own brand voice.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "In healthcare, what decides isn't the effect — it's whether the patient <em>understands</em> and books without friction.",
+        "sigKicker": "— Clinical UX criterion",
+        "sigContext": "Neuromuscular MID · 2025",
+        "hint": "the live site — how the booking flow was built and why it feels warm."
+      },
+      "production": {
+        "stats": [
+          { "value": "1", "label": "Site · neuromuscularmid.com" },
+          { "value": "Booking", "label": "Primary action", "wordValue": true },
+          { "value": "Warm", "label": "Visual tone", "wordValue": true },
+          { "value": "Mérida", "label": "Physio clinic", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Landing", "detail": "Site at neuromuscularmid.com with services, team and booking." },
+          { "title": "Visual concept", "detail": "Pixelated heart motif as a clinical-human bridge." },
+          { "title": "Booking flow", "detail": "Primary action built to reduce friction for the patient." },
+          { "title": "Clinical communication", "detail": "Social pieces under the site's visual system." },
+          { "title": "Responsive", "detail": "Full adaptation across mobile, tablet and desktop." }
+        ]
+      },
+      "proofText": "A live site at <em>neuromuscularmid.com</em>: clinical clarity, human warmth and a booking flow that reduces friction for the patient.",
+      "credits": [
+        { "label": "Client", "value": "Neuromuscular MID" },
+        { "label": "Industry", "value": "Healthcare · physiotherapy" },
+        { "label": "Role", "value": "Lead UI/UX & Web designer" },
+        { "label": "Agency", "value": "Intuitiva · Mérida" },
+        { "label": "Year", "value": "2025" },
+        { "label": "Site", "value": "neuromuscularmid.com" }
+      ],
+      "seo": {
+        "title": "Neuromuscular MID — Case study · Julio Morcillo",
+        "description": "UI/UX and web design for a physiotherapy clinic in Mérida. Live site at neuromuscularmid.com."
+      }
+    }
+  },
+  "prev": {
+    "slug": "los-pollos-giros",
+    "title": { "es": "Los Pollos <em>Giros</em>", "en": "Los Pollos <em>Giros</em>" },
+    "meta": { "es": "Identidad · food & beverage", "en": "Identity · food & beverage" }
+  },
+  "next": {
+    "slug": "alfa-comunicaciones",
+    "title": { "es": "Alfa <em>Comunicaciones</em>", "en": "Alfa <em>Comunicaciones</em>" },
+    "meta": { "es": "Identidad · telecomunicaciones", "en": "Identity · telecommunications" }
+  }
+}

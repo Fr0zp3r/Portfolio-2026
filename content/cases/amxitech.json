@@ -1,0 +1,136 @@
+{
+  "slug": "amxitech",
+  "meta": {
+    "client": "AMXiTech · submarca de Amerimex",
+    "year": "2025",
+    "url": "https://amxitech.com",
+    "agency": "Intuitiva · Mérida",
+    "datePublished": "2025-08-15"
+  },
+  "i18n": {
+    "es": {
+      "hero": {
+        "eyebrow": "§ 01 — UI/UX · web · tech B2B",
+        "title": "AMX<em>iTech</em>",
+        "discipline": "UI/UX · Web · Aplicación de marca",
+        "manifesto": "Traducción de una <strong>identidad tecnológica</strong> a una experiencia digital clara, comercial y responsive para una empresa B2B de soluciones TI.",
+        "note": "Autoría principal del sitio web y aplicación visual de la marca. El naming y logo final fueron dirigidos por dirección de arte; mi rol fue construir la cara digital del rebrand.",
+        "caption": "Una landing pensada para explicar servicios complejos y facilitar el contacto con clientes B2B sin perder rigor visual.",
+        "role": "Lead UI/UX & Web designer · Aplicación de marca",
+        "scope": "Sitio web · Sistema de componentes · Aplicación de identidad",
+        "keydata": [
+          "<b>Sitio activo</b> · amxitech.com",
+          "<b>WordPress</b> · Elementor",
+          "<b>Submarca</b> de Amerimex"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Marca", "title": "La <em>marca</em> aplicada.", "note": "Aplicación del sistema visual definido a un ecosistema digital.", "anchor": "#brand", "lede": "Tomar la dirección visual aceptada y traducirla a una superficie web sin perder rigor: tipografía, color y aire entre componentes." },
+        { "num": "§ 03", "label": "Sitio", "title": "Arquitectura del <em>sitio</em>.", "note": "Arquitectura, jerarquía y estructura de navegación de amxitech.com.", "anchor": "#site", "lede": "Una arquitectura plana orientada a explicar servicios y mover al visitante hacia el contacto comercial sin fricción." },
+        { "num": "§ 04", "label": "Componentes", "title": "Sistema de <em>componentes</em>.", "note": "Sistema modular, responsive y orientado a captación de leads.", "anchor": "#components" },
+        { "num": "§ 05", "label": "Resultado", "title": "Una cara <em>digital</em>.", "note": "Una cara digital comercial, sobria y alineada al lenguaje del rebrand.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "El logo no resuelve la confianza B2B — la <em>página</em> sí, si está bien construida.",
+        "sigKicker": "— Criterio de diseño web",
+        "sigContext": "AMXiTech · 2025",
+        "hint": "el sistema modular — cómo se construyó la página y cómo se sostiene en producción."
+      },
+      "production": {
+        "stats": [
+          { "value": "1", "label": "Sitio · amxitech.com" },
+          { "value": "Responsive", "label": "Mobile + desktop", "wordValue": true },
+          { "value": "B2B", "label": "Captación de leads", "wordValue": true },
+          { "value": "WordPress", "label": "Elementor builder", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Sitio web", "detail": "Landing principal en amxitech.com con secciones de servicios, sectores y contacto." },
+          { "title": "Sistema de componentes", "detail": "Tarjetas, módulos de servicio y bloques editoriales reutilizables." },
+          { "title": "Responsive", "detail": "Adaptación completa para mobile, tablet y desktop." },
+          { "title": "Aplicación de marca", "detail": "Bajada de tipografía, color y composición a la capa digital." },
+          { "title": "Captación", "detail": "Jerarquía orientada a contacto y formularios de lead." }
+        ]
+      },
+      "proofText": "El sitio quedó activo en <em>amxitech.com</em>: una cara digital comercial, modular y alineada al rebrand, lista para sostener captación B2B.",
+      "credits": [
+        { "label": "Cliente", "value": "AMXiTech · submarca de Amerimex" },
+        { "label": "Industria", "value": "Tecnología B2B · servicios TI" },
+        { "label": "Rol", "value": "Lead UI/UX & Web designer · brand application" },
+        { "label": "Agencia", "value": "Intuitiva · Mérida" },
+        { "label": "Año", "value": "2025" },
+        { "label": "Sitio", "value": "amxitech.com" }
+      ],
+      "seo": {
+        "title": "AMXiTech — Caso de estudio · Julio Morcillo",
+        "description": "Diseño UI/UX y web design para AMXiTech, submarca tecnológica de Amerimex. Sitio activo en amxitech.com."
+      }
+    },
+    "en": {
+      "hero": {
+        "eyebrow": "§ 01 — UI/UX · web · B2B tech",
+        "title": "AMX<em>iTech</em>",
+        "discipline": "UI/UX · Web · Brand application",
+        "manifesto": "Translating a <strong>technology identity</strong> into a clear, responsive, commercially oriented experience for a B2B IT services company.",
+        "note": "Lead author of the website and visual brand application. Naming and final logo were led by art direction; my role was building the digital face of the rebrand.",
+        "caption": "A landing built to explain complex services and support B2B contact without losing visual rigour.",
+        "role": "Lead UI/UX & Web designer · Brand application",
+        "scope": "Website · Component system · Identity application",
+        "keydata": [
+          "<b>Live site</b> · amxitech.com",
+          "<b>WordPress</b> · Elementor",
+          "<b>Sub-brand</b> of Amerimex"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Brand", "title": "The <em>brand</em>, applied.", "note": "Applying the defined visual system across a digital ecosystem.", "anchor": "#brand", "lede": "Taking the accepted visual direction and translating it onto a web surface without losing rigour: type, colour and air between components." },
+        { "num": "§ 03", "label": "Site", "title": "Site <em>architecture</em>.", "note": "Architecture, hierarchy and navigation structure of amxitech.com.", "anchor": "#site", "lede": "A flat architecture built to explain services and move the visitor toward commercial contact without friction." },
+        { "num": "§ 04", "label": "Components", "title": "A modular <em>component</em> system.", "note": "Modular, responsive system focused on lead generation.", "anchor": "#components" },
+        { "num": "§ 05", "label": "Result", "title": "A <em>digital</em> face.", "note": "A commercial, sober digital face aligned to the rebrand's voice.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "A logo doesn't solve B2B trust — the <em>page</em> does, when it's well built.",
+        "sigKicker": "— Web design criterion",
+        "sigContext": "AMXiTech · 2025",
+        "hint": "the modular system — how the site was built and how it holds up in production."
+      },
+      "production": {
+        "stats": [
+          { "value": "1", "label": "Site · amxitech.com" },
+          { "value": "Responsive", "label": "Mobile + desktop", "wordValue": true },
+          { "value": "B2B", "label": "Lead generation", "wordValue": true },
+          { "value": "WordPress", "label": "Elementor builder", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Website", "detail": "Main landing at amxitech.com with services, sectors and contact sections." },
+          { "title": "Component system", "detail": "Cards, service modules and reusable editorial blocks." },
+          { "title": "Responsive", "detail": "Full adaptation across mobile, tablet and desktop." },
+          { "title": "Brand application", "detail": "Translation of typography, colour and composition to the digital layer." },
+          { "title": "Lead capture", "detail": "Hierarchy built around contact and lead forms." }
+        ]
+      },
+      "proofText": "The site went live at <em>amxitech.com</em>: a commercial, modular digital face aligned to the rebrand, built to sustain B2B lead generation.",
+      "credits": [
+        { "label": "Client", "value": "AMXiTech · sub-brand of Amerimex" },
+        { "label": "Industry", "value": "B2B Technology · IT services" },
+        { "label": "Role", "value": "Lead UI/UX & Web designer · brand application" },
+        { "label": "Agency", "value": "Intuitiva · Mérida" },
+        { "label": "Year", "value": "2025" },
+        { "label": "Site", "value": "amxitech.com" }
+      ],
+      "seo": {
+        "title": "AMXiTech — Case study · Julio Morcillo",
+        "description": "UI/UX and web design for AMXiTech, a technology sub-brand of Amerimex. Live site at amxitech.com."
+      }
+    }
+  },
+  "prev": {
+    "slug": "vi-summit",
+    "title": { "es": "VI <em>Summit</em>", "en": "VI <em>Summit</em>" },
+    "meta": { "es": "Sistema de evento · agroindustria", "en": "Event system · agribusiness" }
+  },
+  "next": {
+    "slug": "los-pollos-giros",
+    "title": { "es": "Los Pollos <em>Giros</em>", "en": "Los Pollos <em>Giros</em>" },
+    "meta": { "es": "Identidad · food & beverage", "en": "Identity · food & beverage" }
+  }
+}

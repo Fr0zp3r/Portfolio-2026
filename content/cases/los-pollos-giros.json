@@ -1,0 +1,134 @@
+{
+  "slug": "los-pollos-giros",
+  "meta": {
+    "client": "Los Pollos Giros",
+    "year": "2024",
+    "url": null,
+    "studio": "FRZT Studio",
+    "datePublished": "2024-08-01"
+  },
+  "i18n": {
+    "es": {
+      "hero": {
+        "eyebrow": "§ 01 — Identidad · food & beverage",
+        "title": "Los Pollos <em>Giros</em>",
+        "discipline": "Branding · Ilustración · Packaging",
+        "manifesto": "Identidad visual para un concepto de <strong>comida rápida con personalidad propia</strong>, construida alrededor de un personaje simple y memorable.",
+        "note": "Proyecto propio bajo FRZT Studio. Autoría completa: concepto, sistema y aplicaciones para que la marca viviera en empaque, prendas y señalización sin perder reconocimiento.",
+        "caption": "Tono con humor visual y lógica de reproducción comercial: un sistema que se imprime barato y se reconoce a primera vista.",
+        "role": "Brand designer · Illustrator",
+        "scope": "Identidad · Personaje · Aplicaciones",
+        "keydata": [
+          "<b>Personaje</b> central",
+          "<b>Empaque</b> · prendas · señalización",
+          "<b>Autoría</b> completa · FRZT"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Personaje", "title": "El <em>personaje</em> manda.", "note": "Ícono central como vehículo de marca: simple, divertido, reproducible.", "anchor": "#character", "lede": "Antes que el logo o el color, el personaje. Un ícono simple, reproducible, capaz de cargar la marca solo." },
+        { "num": "§ 03", "label": "Sistema", "title": "Sistema alrededor del <em>ícono</em>.", "note": "Tipografía, color y composición a partir del personaje.", "anchor": "#system", "lede": "Tipografía y color elegidos para sostener al personaje, no para competir con él." },
+        { "num": "§ 04", "label": "Aplicaciones", "title": "<em>Aplicaciones</em> para producir.", "note": "Empaque, camisetas, bolsas y señalización listos para producción.", "anchor": "#applications" },
+        { "num": "§ 05", "label": "Resultado", "title": "Marca con <em>voz</em>.", "note": "Una marca con voz, lista para escalar sin perder personalidad.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "El reto no era serio — era memorable. Una identidad <em>divertida</em> también sostiene un sistema.",
+        "sigKicker": "— Criterio de marca",
+        "sigContext": "Los Pollos Giros · 2024",
+        "hint": "las aplicaciones reales — cómo el personaje sobrevive a la producción comercial."
+      },
+      "production": {
+        "stats": [
+          { "value": "1", "label": "Personaje principal" },
+          { "value": "Empaque + Prendas", "label": "Aplicaciones tangibles", "wordValue": true },
+          { "value": "Comercial", "label": "Lógica de reproducción", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Personaje", "detail": "Ícono central diseñado para reproducción simple y reconocimiento inmediato." },
+          { "title": "Logotipo", "detail": "Wordmark con anclaje al personaje y aplicaciones modulares." },
+          { "title": "Empaque", "detail": "Cajas, bolsas y soportes listos para producción comercial." },
+          { "title": "Prendas", "detail": "Camisetas y uniforme con jerarquía visual ligera." },
+          { "title": "Señalización", "detail": "Cartelería y rotulación adaptada a punto de venta." }
+        ]
+      },
+      "proofText": "Una marca <em>reconocible</em> desde el primer impacto, lista para vivir en empaque, prendas y señalización sin diluirse.",
+      "credits": [
+        { "label": "Cliente", "value": "Los Pollos Giros" },
+        { "label": "Industria", "value": "Food & beverage · comida rápida" },
+        { "label": "Rol", "value": "Brand designer · ilustración · sistema" },
+        { "label": "Estudio", "value": "FRZT Studio" },
+        { "label": "Año", "value": "2024" },
+        { "label": "Tipo", "value": "Proyecto propio · autoría completa" }
+      ],
+      "seo": {
+        "title": "Los Pollos Giros — Caso de estudio · Julio Morcillo",
+        "description": "Identidad visual con personaje propio para un concepto de comida rápida. Proyecto propio bajo FRZT Studio."
+      }
+    },
+    "en": {
+      "hero": {
+        "eyebrow": "§ 01 — Identity · food & beverage",
+        "title": "Los Pollos <em>Giros</em>",
+        "discipline": "Branding · Illustration · Packaging",
+        "manifesto": "Visual identity for a <strong>fast-food concept with a distinct personality</strong>, built around a simple, memorable character.",
+        "note": "Self-initiated project under FRZT Studio. Full authorship: concept, system and applications so the brand could live across packaging, apparel and signage without losing recognition.",
+        "caption": "Tone with visual humour and commercial reproduction logic: a system that prints cheap and reads instantly.",
+        "role": "Brand designer · Illustrator",
+        "scope": "Identity · Character · Applications",
+        "keydata": [
+          "<b>Lead</b> character",
+          "<b>Packaging</b> · apparel · signage",
+          "<b>Full</b> authorship · FRZT"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Character", "title": "The <em>character</em> leads.", "note": "Central icon as brand vehicle: simple, fun, reproducible.", "anchor": "#character", "lede": "Before the logo or the colour, the character. A simple, reproducible icon that can carry the brand on its own." },
+        { "num": "§ 03", "label": "System", "title": "A system around the <em>icon</em>.", "note": "Typography, colour and composition built from the character.", "anchor": "#system", "lede": "Typography and colour picked to support the character — not to compete with it." },
+        { "num": "§ 04", "label": "Applications", "title": "<em>Applications</em> for production.", "note": "Packaging, shirts, bags and signage ready for production.", "anchor": "#applications" },
+        { "num": "§ 05", "label": "Result", "title": "A brand with <em>voice</em>.", "note": "A brand with voice, ready to scale without losing personality.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "The challenge wasn't to be serious — it was to be memorable. A <em>playful</em> identity can hold a system too.",
+        "sigKicker": "— Brand criterion",
+        "sigContext": "Los Pollos Giros · 2024",
+        "hint": "the real applications — how the character survives commercial production."
+      },
+      "production": {
+        "stats": [
+          { "value": "1", "label": "Lead character" },
+          { "value": "Packaging + Apparel", "label": "Tangible applications", "wordValue": true },
+          { "value": "Commercial", "label": "Reproduction logic", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Character", "detail": "Central icon designed for simple reproduction and instant recognition." },
+          { "title": "Logotype", "detail": "Wordmark anchored to the character with modular applications." },
+          { "title": "Packaging", "detail": "Boxes, bags and supports ready for commercial production." },
+          { "title": "Apparel", "detail": "T-shirts and uniform with light visual hierarchy." },
+          { "title": "Signage", "detail": "Posters and lettering adapted for point-of-sale." }
+        ]
+      },
+      "proofText": "A brand <em>recognisable</em> on first impact, ready to live across packaging, apparel and signage without diluting.",
+      "credits": [
+        { "label": "Client", "value": "Los Pollos Giros" },
+        { "label": "Industry", "value": "Food & beverage · fast food" },
+        { "label": "Role", "value": "Brand designer · illustration · system" },
+        { "label": "Studio", "value": "FRZT Studio" },
+        { "label": "Year", "value": "2024" },
+        { "label": "Type", "value": "Self-initiated · full authorship" }
+      ],
+      "seo": {
+        "title": "Los Pollos Giros — Case study · Julio Morcillo",
+        "description": "Visual identity with a custom character for a fast-food concept. Self-initiated project under FRZT Studio."
+      }
+    }
+  },
+  "prev": {
+    "slug": "amxitech",
+    "title": { "es": "AMX<em>iTech</em>", "en": "AMX<em>iTech</em>" },
+    "meta": { "es": "UI/UX · web · tech B2B", "en": "UI/UX · web · B2B tech" }
+  },
+  "next": {
+    "slug": "neuromuscular-mid",
+    "title": { "es": "Neuromuscular <em>MID</em>", "en": "Neuromuscular <em>MID</em>" },
+    "meta": { "es": "UI/UX · web · salud", "en": "UI/UX · web · healthcare" }
+  }
+}

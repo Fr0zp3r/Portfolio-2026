@@ -1,0 +1,132 @@
+{
+  "slug": "chint",
+  "meta": {
+    "client": "Chint",
+    "year": "2024–2025",
+    "url": null,
+    "agency": "Intuitiva · Mérida",
+    "datePublished": "2025-03-15"
+  },
+  "i18n": {
+    "es": {
+      "hero": {
+        "eyebrow": "§ 01 — Contenido B2B · componentes eléctricos",
+        "title": "<em>Chint</em>",
+        "discipline": "Multimedia · Contenido · Video",
+        "manifesto": "Producción multimedia para explicar <strong>tecnología compleja</strong> con piezas diarias alineadas al lenguaje visual de una matriz global.",
+        "note": "Colaboración / ejecución multimedia en Intuitiva. Piezas gráficas, videos cortos y composiciones visuales para canales digitales B2B.",
+        "caption": "El reto fue traducir fichas técnicas y componentes eléctricos a un lenguaje visual digerible sin perder rigor.",
+        "role": "Multimedia designer · Content creator",
+        "scope": "Piezas gráficas · Reels · Contenido B2B",
+        "keydata": [
+          "<b>Matriz global</b> · alineación",
+          "<b>B2B</b> · componentes eléctricos",
+          "<b>Multimedia</b> · piezas + video"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Piezas", "title": "<em>Piezas</em> en cadencia.", "note": "Gráficos diarios para ritmo digital sostenido.", "anchor": "#graphics", "lede": "Piezas constantes para sostener un canal B2B activo, alineadas al lenguaje visual de la matriz global." },
+        { "num": "§ 03", "label": "Video", "title": "<em>Video</em> que explica.", "note": "Reels y videos cortos para audiencias B2B.", "anchor": "#video" },
+        { "num": "§ 04", "label": "Producto", "title": "Componente como <em>protagonista</em>.", "note": "Composiciones visuales para explicar tecnología.", "anchor": "#product" },
+        { "num": "§ 05", "label": "Resultado", "title": "Alineado a la <em>matriz</em>.", "note": "Contenido alineado a la matriz global en su fase avanzada.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "B2B no perdona el <em>relleno</em> — cada pieza tiene que explicar algo o no merece publicarse.",
+        "sigKicker": "— Criterio multimedia",
+        "sigContext": "Chint · 2024–2025",
+        "hint": "el inventario completo — piezas, video y composiciones de producto."
+      },
+      "production": {
+        "stats": [
+          { "value": "Diario", "label": "Cadencia digital", "wordValue": true },
+          { "value": "Reels + Posts", "label": "Mix multimedia", "wordValue": true },
+          { "value": "B2B", "label": "Componentes eléctricos", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Piezas gráficas", "detail": "Gráficos diarios para sostener canales digitales B2B." },
+          { "title": "Reels", "detail": "Videos cortos pensados para audiencias técnicas B2B." },
+          { "title": "Producto", "detail": "Composiciones visuales para explicar tecnología compleja." },
+          { "title": "Alineación visual", "detail": "Bajada del lenguaje de la matriz global en piezas locales." }
+        ]
+      },
+      "proofText": "Contenido alineado a la <em>matriz global</em> en su fase avanzada, con ritmo digital sostenido y piezas que explican producto.",
+      "credits": [
+        { "label": "Cliente", "value": "Chint" },
+        { "label": "Industria", "value": "Componentes eléctricos · B2B" },
+        { "label": "Rol", "value": "Multimedia designer · content creator" },
+        { "label": "Agencia", "value": "Intuitiva · Mérida" },
+        { "label": "Año", "value": "2024–2025" },
+        { "label": "Tipo", "value": "Colaboración · ejecución multimedia" }
+      ],
+      "seo": {
+        "title": "Chint — Caso de estudio · Julio Morcillo",
+        "description": "Producción multimedia B2B para Chint: piezas gráficas, reels y composiciones de producto alineadas a una matriz global."
+      }
+    },
+    "en": {
+      "hero": {
+        "eyebrow": "§ 01 — B2B content · electrical components",
+        "title": "<em>Chint</em>",
+        "discipline": "Multimedia · Content · Video",
+        "manifesto": "Multimedia production to explain <strong>complex technology</strong> with daily pieces aligned to a global parent's visual language.",
+        "note": "Multimedia collaboration / execution at Intuitiva. Graphics, short videos and visual compositions for B2B digital channels.",
+        "caption": "The challenge was translating tech specs and electrical components into a digestible visual language without losing rigour.",
+        "role": "Multimedia designer · Content creator",
+        "scope": "Graphics · Reels · B2B content",
+        "keydata": [
+          "<b>Global parent</b> · alignment",
+          "<b>B2B</b> · electrical components",
+          "<b>Multimedia</b> · pieces + video"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Pieces", "title": "<em>Pieces</em> in cadence.", "note": "Daily graphics for sustained digital rhythm.", "anchor": "#graphics", "lede": "Constant pieces to sustain an active B2B channel, aligned to the global parent's visual language." },
+        { "num": "§ 03", "label": "Video", "title": "<em>Video</em> that explains.", "note": "Reels and short videos for B2B audiences.", "anchor": "#video" },
+        { "num": "§ 04", "label": "Product", "title": "Component as <em>protagonist</em>.", "note": "Visual compositions to explain technology.", "anchor": "#product" },
+        { "num": "§ 05", "label": "Result", "title": "Aligned to the <em>parent</em>.", "note": "Content aligned to the global parent in its advanced phase.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "B2B doesn't forgive <em>filler</em> — every piece has to explain something or it doesn't deserve to be published.",
+        "sigKicker": "— Multimedia criterion",
+        "sigContext": "Chint · 2024–2025",
+        "hint": "the full inventory — pieces, video and product compositions."
+      },
+      "production": {
+        "stats": [
+          { "value": "Daily", "label": "Digital cadence", "wordValue": true },
+          { "value": "Reels + Posts", "label": "Multimedia mix", "wordValue": true },
+          { "value": "B2B", "label": "Electrical components", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Graphics", "detail": "Daily graphics to sustain B2B digital channels." },
+          { "title": "Reels", "detail": "Short videos built for B2B technical audiences." },
+          { "title": "Product", "detail": "Visual compositions to explain complex technology." },
+          { "title": "Visual alignment", "detail": "Translation of the global parent's language into local pieces." }
+        ]
+      },
+      "proofText": "Content aligned to the <em>global parent</em> in its advanced phase, with sustained digital rhythm and pieces that explain product.",
+      "credits": [
+        { "label": "Client", "value": "Chint" },
+        { "label": "Industry", "value": "Electrical components · B2B" },
+        { "label": "Role", "value": "Multimedia designer · content creator" },
+        { "label": "Agency", "value": "Intuitiva · Mérida" },
+        { "label": "Year", "value": "2024–2025" },
+        { "label": "Type", "value": "Collaboration · multimedia execution" }
+      ],
+      "seo": {
+        "title": "Chint — Case study · Julio Morcillo",
+        "description": "B2B multimedia production for Chint: graphics, reels and product compositions aligned to a global parent."
+      }
+    }
+  },
+  "prev": {
+    "slug": "corber",
+    "title": { "es": "<em>Corber</em>", "en": "<em>Corber</em>" },
+    "meta": { "es": "Contenido digital · agroexportación", "en": "Digital content · agribusiness" }
+  },
+  "next": {
+    "slug": "diamond-soft",
+    "title": { "es": "Diamond <em>Soft</em>", "en": "Diamond <em>Soft</em>" },
+    "meta": { "es": "Contenido B2B · software empresarial", "en": "B2B content · enterprise software" }
+  }
+}

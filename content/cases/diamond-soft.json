@@ -1,0 +1,132 @@
+{
+  "slug": "diamond-soft",
+  "meta": {
+    "client": "Diamond Soft",
+    "year": "2025",
+    "url": null,
+    "agency": "Intuitiva · Mérida",
+    "datePublished": "2025-04-01"
+  },
+  "i18n": {
+    "es": {
+      "hero": {
+        "eyebrow": "§ 01 — Contenido B2B · software empresarial",
+        "title": "Diamond <em>Soft</em>",
+        "discipline": "Visual · Contenido · Digital",
+        "manifesto": "Definición del <strong>look & feel digital</strong> para una marca de software empresarial: cómo debía verse y sentirse en piezas digitales.",
+        "note": "Colaboración con liderazgo visual en entregables. Decisiones creativas para sostener coherencia entre piezas sin pretender un rebrand global.",
+        "caption": "El foco fue dar criterio visual a la marca en su capa digital, no rediseñar su sistema completo.",
+        "role": "Lead visual designer · Digital content designer",
+        "scope": "Look & feel · Piezas digitales · Coherencia visual",
+        "keydata": [
+          "<b>Look & feel</b> digital",
+          "<b>B2B</b> · software empresarial",
+          "<b>Liderazgo</b> visual"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Look & feel", "title": "Look & feel <em>digital</em>.", "note": "Criterios visuales para piezas digitales B2B.", "anchor": "#look", "lede": "Definir cómo debía leerse la marca en lo digital antes de bajar las piezas — color, tipografía y aire pensados para B2B." },
+        { "num": "§ 03", "label": "Piezas", "title": "<em>Piezas</em> bajo el sistema.", "note": "Entregables digitales bajo el sistema definido.", "anchor": "#deliverables" },
+        { "num": "§ 04", "label": "Sistema", "title": "Coherencia <em>contenida</em>.", "note": "Coherencia visual entre piezas sin sobrecargar la marca.", "anchor": "#system" },
+        { "num": "§ 05", "label": "Resultado", "title": "Capa digital con <em>criterio</em>.", "note": "Una capa digital con criterio propio dentro de la marca.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "No siempre toca rediseñar — a veces lo que falta es <em>criterio</em> que sostenga lo que ya hay.",
+        "sigKicker": "— Criterio visual",
+        "sigContext": "Diamond Soft · 2025",
+        "hint": "las piezas digitales — qué se entregó y por qué se ven coherentes."
+      },
+      "production": {
+        "stats": [
+          { "value": "Look & feel", "label": "Definido digitalmente", "wordValue": true },
+          { "value": "B2B", "label": "Software empresarial", "wordValue": true },
+          { "value": "Liderazgo", "label": "Visual en entregables", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Look & feel", "detail": "Criterios visuales para piezas digitales B2B." },
+          { "title": "Piezas digitales", "detail": "Entregables alineados al sistema definido." },
+          { "title": "Coherencia", "detail": "Decisiones creativas para sostener consistencia entre piezas." },
+          { "title": "Sistema", "detail": "Capa digital con criterio propio dentro de la marca." }
+        ]
+      },
+      "proofText": "Una capa digital con <em>criterio propio</em> dentro de la marca, sostenida por decisiones visuales consistentes pieza a pieza.",
+      "credits": [
+        { "label": "Cliente", "value": "Diamond Soft" },
+        { "label": "Industria", "value": "Software empresarial · B2B" },
+        { "label": "Rol", "value": "Lead visual designer · digital content" },
+        { "label": "Agencia", "value": "Intuitiva · Mérida" },
+        { "label": "Año", "value": "2025" },
+        { "label": "Tipo", "value": "Colaboración · liderazgo visual en entregables" }
+      ],
+      "seo": {
+        "title": "Diamond Soft — Caso de estudio · Julio Morcillo",
+        "description": "Look & feel digital y piezas B2B para una marca de software empresarial. Liderazgo visual sobre entregables."
+      }
+    },
+    "en": {
+      "hero": {
+        "eyebrow": "§ 01 — B2B content · enterprise software",
+        "title": "Diamond <em>Soft</em>",
+        "discipline": "Visual · Content · Digital",
+        "manifesto": "Defining the <strong>digital look & feel</strong> for an enterprise software brand: how it should look and feel across digital pieces.",
+        "note": "Collaboration with visual leadership over deliverables. Creative decisions to sustain coherence across pieces without attempting a global rebrand.",
+        "caption": "The focus was giving visual criterion to the brand at its digital layer — not redesigning its full system.",
+        "role": "Lead visual designer · Digital content designer",
+        "scope": "Look & feel · Digital pieces · Visual coherence",
+        "keydata": [
+          "<b>Digital</b> look & feel",
+          "<b>B2B</b> · enterprise software",
+          "<b>Visual</b> leadership"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Look & feel", "title": "<em>Digital</em> look & feel.", "note": "Visual criteria for B2B digital pieces.", "anchor": "#look", "lede": "Defining how the brand should read digitally before producing pieces — colour, type and air built for B2B." },
+        { "num": "§ 03", "label": "Pieces", "title": "<em>Pieces</em> under the system.", "note": "Digital deliverables under the defined system.", "anchor": "#deliverables" },
+        { "num": "§ 04", "label": "System", "title": "Restrained <em>coherence</em>.", "note": "Visual coherence across pieces without overloading the brand.", "anchor": "#system" },
+        { "num": "§ 05", "label": "Result", "title": "Digital layer with <em>criterion</em>.", "note": "A digital layer with its own criterion inside the brand.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "It isn't always about redesigning — sometimes what's missing is <em>criterion</em> that holds up what already exists.",
+        "sigKicker": "— Visual criterion",
+        "sigContext": "Diamond Soft · 2025",
+        "hint": "the digital pieces — what was delivered and why they read coherent."
+      },
+      "production": {
+        "stats": [
+          { "value": "Look & feel", "label": "Digitally defined", "wordValue": true },
+          { "value": "B2B", "label": "Enterprise software", "wordValue": true },
+          { "value": "Leadership", "label": "Visual over deliverables", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Look & feel", "detail": "Visual criteria for B2B digital pieces." },
+          { "title": "Digital pieces", "detail": "Deliverables aligned to the defined system." },
+          { "title": "Coherence", "detail": "Creative decisions to sustain consistency across pieces." },
+          { "title": "System", "detail": "Digital layer with its own criterion inside the brand." }
+        ]
+      },
+      "proofText": "A digital layer with its <em>own criterion</em> inside the brand, sustained by consistent visual decisions piece by piece.",
+      "credits": [
+        { "label": "Client", "value": "Diamond Soft" },
+        { "label": "Industry", "value": "Enterprise software · B2B" },
+        { "label": "Role", "value": "Lead visual designer · digital content" },
+        { "label": "Agency", "value": "Intuitiva · Mérida" },
+        { "label": "Year", "value": "2025" },
+        { "label": "Type", "value": "Collaboration · visual leadership over deliverables" }
+      ],
+      "seo": {
+        "title": "Diamond Soft — Case study · Julio Morcillo",
+        "description": "Digital look & feel and B2B pieces for an enterprise software brand. Visual leadership over deliverables."
+      }
+    }
+  },
+  "prev": {
+    "slug": "chint",
+    "title": { "es": "<em>Chint</em>", "en": "<em>Chint</em>" },
+    "meta": { "es": "Contenido B2B · componentes eléctricos", "en": "B2B content · electrical components" }
+  },
+  "next": {
+    "slug": "alma-gonzalez",
+    "title": { "es": "Alma <em>González</em>", "en": "Alma <em>González</em>" },
+    "meta": { "es": "Identidad · bienes raíces", "en": "Identity · real estate" }
+  }
+}

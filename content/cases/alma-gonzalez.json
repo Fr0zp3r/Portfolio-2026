@@ -1,0 +1,128 @@
+{
+  "slug": "alma-gonzalez",
+  "meta": {
+    "client": "Alma González",
+    "year": "2024",
+    "url": null,
+    "studio": "FRZT Studio",
+    "datePublished": "2024-11-01"
+  },
+  "i18n": {
+    "es": {
+      "hero": {
+        "eyebrow": "§ 01 — Identidad · bienes raíces",
+        "title": "Alma <em>González</em>",
+        "discipline": "Branding · Identidad",
+        "manifesto": "Identidad visual para una <strong>profesional de bienes raíces</strong>: una marca personal sobria, clara y aplicable a piezas reales.",
+        "note": "Proyecto freelance bajo FRZT Studio. Sistema visual para servicios profesionales donde la confianza y la claridad importan más que el gesto.",
+        "caption": "Un lenguaje contenido pensado para vivir en presentaciones, materiales de venta y comunicación con clientes.",
+        "role": "Brand designer",
+        "scope": "Identidad visual · Aplicaciones",
+        "keydata": [
+          "<b>Marca personal</b>",
+          "<b>Bienes raíces</b> · servicios",
+          "<b>FRZT</b> · freelance"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Identidad", "title": "<em>Identidad</em> personal.", "note": "Símbolo y composición para una marca personal de servicio.", "anchor": "#identity", "lede": "En servicios profesionales, la identidad pesa por su sobriedad — no por el gesto. El diseño se construyó con esa premisa." },
+        { "num": "§ 03", "label": "Sistema", "title": "Sistema <em>contenido</em>.", "note": "Paleta y tipografía con criterio sobrio.", "anchor": "#system" },
+        { "num": "§ 04", "label": "Aplicaciones", "title": "<em>Aplicaciones</em> reales.", "note": "Piezas pensadas para uso comercial real.", "anchor": "#applications" },
+        { "num": "§ 05", "label": "Resultado", "title": "Lista para <em>presentar</em>.", "note": "Una marca personal lista para presentar y trabajar.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "En servicios profesionales, la marca personal pesa más que el logo — pero el logo tiene que <em>aguantar</em> la confianza.",
+        "sigKicker": "— Criterio de marca personal",
+        "sigContext": "Alma González · 2024",
+        "hint": "las piezas reales — cómo el sistema vive en presentaciones y materiales de venta."
+      },
+      "production": {
+        "stats": [
+          { "value": "Marca personal", "label": "Servicios profesionales", "wordValue": true },
+          { "value": "Sobrio", "label": "Lenguaje contenido", "wordValue": true },
+          { "value": "FRZT", "label": "Freelance", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Identidad", "detail": "Símbolo y composición para marca personal de servicio." },
+          { "title": "Sistema", "detail": "Paleta y tipografía con criterio sobrio." },
+          { "title": "Aplicaciones", "detail": "Piezas pensadas para uso comercial real." },
+          { "title": "Materiales de venta", "detail": "Soportes para presentación con clientes." }
+        ]
+      },
+      "proofText": "Una marca personal <em>lista para presentar</em>: sobria, clara y construida para sostener confianza en cada conversación con cliente.",
+      "credits": [
+        { "label": "Cliente", "value": "Alma González" },
+        { "label": "Industria", "value": "Bienes raíces · servicios profesionales" },
+        { "label": "Rol", "value": "Brand designer · sistema · aplicaciones" },
+        { "label": "Estudio", "value": "FRZT Studio" },
+        { "label": "Año", "value": "2024" },
+        { "label": "Tipo", "value": "Proyecto freelance" }
+      ],
+      "seo": {
+        "title": "Alma González — Caso de estudio · Julio Morcillo",
+        "description": "Identidad visual para una profesional de bienes raíces. Marca personal sobria y aplicable bajo FRZT Studio."
+      }
+    },
+    "en": {
+      "hero": {
+        "eyebrow": "§ 01 — Identity · real estate",
+        "title": "Alma <em>González</em>",
+        "discipline": "Branding · Identity",
+        "manifesto": "Visual identity for a <strong>real estate professional</strong>: a sober, clear, applicable personal brand.",
+        "note": "Freelance project under FRZT Studio. Visual system for professional services where trust and clarity matter more than gesture.",
+        "caption": "A restrained language built to live across presentations, sales materials and client communication.",
+        "role": "Brand designer",
+        "scope": "Visual identity · Applications",
+        "keydata": [
+          "<b>Personal</b> brand",
+          "<b>Real estate</b> · services",
+          "<b>FRZT</b> · freelance"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Identity", "title": "Personal <em>identity</em>.", "note": "Symbol and composition for a personal service brand.", "anchor": "#identity", "lede": "In professional services, identity carries its weight through restraint — not gesture. The design was built on that premise." },
+        { "num": "§ 03", "label": "System", "title": "Restrained <em>system</em>.", "note": "Palette and typography with sober criterion.", "anchor": "#system" },
+        { "num": "§ 04", "label": "Applications", "title": "Real <em>applications</em>.", "note": "Pieces built for real commercial use.", "anchor": "#applications" },
+        { "num": "§ 05", "label": "Result", "title": "Ready to <em>present</em>.", "note": "A personal brand ready to present and to work.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "In professional services, the personal brand weighs more than the logo — but the logo has to <em>carry</em> the trust.",
+        "sigKicker": "— Personal brand criterion",
+        "sigContext": "Alma González · 2024",
+        "hint": "the real pieces — how the system lives across presentations and sales materials."
+      },
+      "production": {
+        "stats": [
+          { "value": "Personal brand", "label": "Professional services", "wordValue": true },
+          { "value": "Restrained", "label": "Contained language", "wordValue": true },
+          { "value": "FRZT", "label": "Freelance", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Identity", "detail": "Symbol and composition for a personal service brand." },
+          { "title": "System", "detail": "Palette and typography with sober criterion." },
+          { "title": "Applications", "detail": "Pieces built for real commercial use." },
+          { "title": "Sales materials", "detail": "Supports for client-facing presentations." }
+        ]
+      },
+      "proofText": "A personal brand <em>ready to present</em>: sober, clear and built to sustain trust in every client conversation.",
+      "credits": [
+        { "label": "Client", "value": "Alma González" },
+        { "label": "Industry", "value": "Real estate · professional services" },
+        { "label": "Role", "value": "Brand designer · system · applications" },
+        { "label": "Studio", "value": "FRZT Studio" },
+        { "label": "Year", "value": "2024" },
+        { "label": "Type", "value": "Freelance project" }
+      ],
+      "seo": {
+        "title": "Alma González — Case study · Julio Morcillo",
+        "description": "Visual identity for a real estate professional. Sober, applicable personal brand under FRZT Studio."
+      }
+    }
+  },
+  "prev": {
+    "slug": "diamond-soft",
+    "title": { "es": "Diamond <em>Soft</em>", "en": "Diamond <em>Soft</em>" },
+    "meta": { "es": "Contenido B2B · software empresarial", "en": "B2B content · enterprise software" }
+  },
+  "next": null
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "vi-summit",
+  "meta": {
+    "client": "VI Summit Internacional del Espárrago",
+    "year": "2025",
+    "url": null,
+    "agency": "Intuitiva · Mérida",
+    "datePublished": "2025-09-01"
+  },
+  "i18n": {
+    "es": {
+      "hero": {
+        "eyebrow": "§ 01 — Sistema de evento · agroindustria",
+        "title": "VI <em>Summit</em>",
+        "discipline": "Producción · Editorial · Branding aplicado",
+        "manifesto": "Producción visual a escala para que la <strong>identidad del congreso</strong> mantuviera coherencia entre formatos físicos y digitales.",
+        "note": "Colaboración dentro del equipo de Intuitiva: artes finales para señalética, merchandising, piezas editoriales y campaña pre-evento a partir de un concepto visual ya definido.",
+        "caption": "El reto fue sostener jerarquía y claridad técnica entre decenas de puntos de contacto sin diluir el lenguaje del congreso.",
+        "role": "Production designer · Despliegue gráfico",
+        "scope": "Señalética · Merchandising · Editorial · Digital",
+        "keydata": [
+          "<b>Sexta</b> edición",
+          "<b>Físico + Digital</b>",
+          "<b>Internacional</b> · agroindustria"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Sistema", "title": "Bajada del <em>sistema</em>.", "note": "Bajada de la identidad del evento a una matriz visual aplicable.", "anchor": "#system", "lede": "Antes de imprimir nada, había que ordenar la matriz: tipografías, retículas y reglas de composición listas para sobrevivir al volumen del congreso." },
+        { "num": "§ 03", "label": "Señalética", "title": "Señalética en <em>sede</em>.", "note": "Artes finales para formatos físicos: vinilos, lonas, módulos.", "anchor": "#signage", "lede": "Vinilos, lonas y módulos preparados con jerarquía clara para que el asistente entendiera la sede sin tener que pensar." },
+        { "num": "§ 04", "label": "Merchandising", "title": "Merchandising para <em>entregar</em>.", "note": "Piezas tangibles preparadas para tiraje y entrega en sede.", "anchor": "#merch" },
+        { "num": "§ 05", "label": "Resultado", "title": "Coherencia <em>editorial</em>.", "note": "Coherencia editorial entre el congreso, su campaña y sus materiales.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "No era rediseñar el evento — era llevar el mismo <em>lenguaje</em> a cada superficie sin perderlo en la traducción.",
+        "sigKicker": "— Criterio de producción",
+        "sigContext": "VI Summit · 2025",
+        "hint": "el inventario completo — señalética, merch, editorial y campaña pre-evento."
+      },
+      "production": {
+        "stats": [
+          { "value": "VI", "label": "Edición · 2025", "wordValue": true },
+          { "value": "Físico + Digital", "label": "Canales desplegados", "wordValue": true },
+          { "value": "Internacional", "label": "Alcance del congreso", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Señalética", "detail": "Vinilos, lonas y módulos para sede principal y áreas técnicas." },
+          { "title": "Merchandising", "detail": "Gafetes, lanyards y piezas tangibles para asistentes." },
+          { "title": "Editorial", "detail": "Materiales impresos con jerarquía editorial alineada al sistema." },
+          { "title": "Campaña pre-evento", "detail": "Piezas digitales para anunciar el congreso en redes y correo." },
+          { "title": "Digital", "detail": "Formatos para canales digitales y comunicación interna." }
+        ]
+      },
+      "proofText": "La identidad del congreso quedó <em>desplegada</em> en docenas de superficies con jerarquía constante y producción técnica resuelta.",
+      "credits": [
+        { "label": "Cliente", "value": "VI Summit Internacional del Espárrago" },
+        { "label": "Industria", "value": "Agroindustria · evento internacional" },
+        { "label": "Rol", "value": "Production designer · arte final · despliegue" },
+        { "label": "Agencia", "value": "Intuitiva · Mérida" },
+        { "label": "Año", "value": "2025" },
+        { "label": "Edición", "value": "Sexta edición" }
+      ],
+      "seo": {
+        "title": "VI Summit Internacional del Espárrago — Caso de estudio · Julio Morcillo",
+        "description": "Producción gráfica del congreso: señalética, merchandising, editorial y campaña digital para la sexta edición del foro internacional del espárrago."
+      }
+    },
+    "en": {
+      "hero": {
+        "eyebrow": "§ 01 — Event system · agribusiness",
+        "title": "VI <em>Summit</em>",
+        "discipline": "Production · Editorial · Applied branding",
+        "manifesto": "Visual production at scale so the <strong>congress identity</strong> stayed coherent across physical and digital formats.",
+        "note": "Collaboration within the Intuitiva team: final art for signage, merchandising, editorial pieces and pre-event campaign — built from an already-defined visual concept.",
+        "caption": "The challenge was holding hierarchy and technical clarity across dozens of touchpoints without diluting the congress's voice.",
+        "role": "Production designer · Graphic rollout",
+        "scope": "Signage · Merch · Editorial · Digital",
+        "keydata": [
+          "<b>Sixth</b> edition",
+          "<b>Physical + Digital</b>",
+          "<b>International</b> · agribusiness"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "System", "title": "Translating the <em>system</em>.", "note": "Translating the event identity into an applicable visual matrix.", "anchor": "#system", "lede": "Before printing anything, the matrix had to be in place: typography, grids and composition rules ready to survive the congress volume." },
+        { "num": "§ 03", "label": "Signage", "title": "Signage <em>on site</em>.", "note": "Final art for physical formats: vinyl, canvas, modules.", "anchor": "#signage", "lede": "Vinyl, canvas and modules prepared with clear hierarchy so attendees could read the venue without having to think." },
+        { "num": "§ 04", "label": "Merch", "title": "Merch ready to <em>hand out</em>.", "note": "Tangible pieces prepared for production and on-site delivery.", "anchor": "#merch" },
+        { "num": "§ 05", "label": "Result", "title": "Editorial <em>coherence</em>.", "note": "Editorial coherence across the congress, its campaign and its materials.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "Not redesigning the event — taking the same <em>language</em> to every surface without losing it in translation.",
+        "sigKicker": "— Production criterion",
+        "sigContext": "VI Summit · 2025",
+        "hint": "the full inventory — signage, merch, editorial and pre-event campaign."
+      },
+      "production": {
+        "stats": [
+          { "value": "VI", "label": "Edition · 2025", "wordValue": true },
+          { "value": "Physical + Digital", "label": "Channels deployed", "wordValue": true },
+          { "value": "International", "label": "Congress scope", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Signage", "detail": "Vinyl, canvas and modules for the main venue and technical areas." },
+          { "title": "Merch", "detail": "Lanyards, badges and tangible pieces for attendees." },
+          { "title": "Editorial", "detail": "Printed materials with editorial hierarchy aligned to the system." },
+          { "title": "Pre-event campaign", "detail": "Digital pieces to announce the congress on social and email." },
+          { "title": "Digital", "detail": "Formats for digital channels and internal communication." }
+        ]
+      },
+      "proofText": "The congress identity was <em>deployed</em> across dozens of surfaces with consistent hierarchy and technical production solved.",
+      "credits": [
+        { "label": "Client", "value": "VI Summit Internacional del Espárrago" },
+        { "label": "Industry", "value": "Agribusiness · international event" },
+        { "label": "Role", "value": "Production designer · final art · rollout" },
+        { "label": "Agency", "value": "Intuitiva · Mérida" },
+        { "label": "Year", "value": "2025" },
+        { "label": "Edition", "value": "Sixth edition" }
+      ],
+      "seo": {
+        "title": "VI Summit Internacional del Espárrago — Case study · Julio Morcillo",
+        "description": "Graphic production for the congress: signage, merch, editorial and digital campaign for the sixth edition of the international asparagus forum."
+      }
+    }
+  },
+  "prev": {
+    "slug": "consentido",
+    "title": { "es": "Con<em>Sentido</em>", "en": "Con<em>Sentido</em>" },
+    "meta": { "es": "Brand rollout · estancia vinícola", "en": "Brand rollout · winery estate" }
+  },
+  "next": {
+    "slug": "amxitech",
+    "title": { "es": "AMX<em>iTech</em>", "en": "AMX<em>iTech</em>" },
+    "meta": { "es": "UI/UX · web · tech B2B", "en": "UI/UX · web · B2B tech" }
+  }
+}

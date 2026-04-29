@@ -1,0 +1,134 @@
+{
+  "slug": "alfa-comunicaciones",
+  "meta": {
+    "client": "Alfa Distribución y Servicios de Comunicación",
+    "year": "2024",
+    "url": null,
+    "agency": "Intuitiva · Mérida",
+    "datePublished": "2024-09-01"
+  },
+  "i18n": {
+    "es": {
+      "hero": {
+        "eyebrow": "§ 01 — Identidad · telecomunicaciones",
+        "title": "Alfa <em>Comunicaciones</em>",
+        "discipline": "Branding · Identidad · Print",
+        "manifesto": "Identidad visual para una empresa de telecomunicaciones que necesitaba <strong>diferenciarse sin caer en clichés del sector</strong>: símbolo, paleta, tipografía y reglas de uso.",
+        "note": "Autoría principal del sistema completo. Liderazgo conceptual y técnico desde el isotipo hasta las aplicaciones corporativas.",
+        "caption": "Un lenguaje sobrio, técnico y aplicable: pensado para vivir en tarjetas, papelería y materiales comerciales sin sobreactuar.",
+        "role": "Lead brand designer · Identidad visual",
+        "scope": "Símbolo · Sistema · Brandbook · Aplicaciones",
+        "keydata": [
+          "<b>Brandbook</b> completo",
+          "<b>Autoría</b> total",
+          "<b>Telecom</b> · B2B"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Símbolo", "title": "El <em>símbolo</em> primero.", "note": "Isotipo circular construido sobre los valores de marca.", "anchor": "#symbol", "lede": "Un isotipo circular construido sobre los valores de la marca — pensado para reproducirse en tamaño pequeño sin perder lectura." },
+        { "num": "§ 03", "label": "Sistema", "title": "Sistema <em>completo</em>.", "note": "Paleta, tipografía y reglas de composición del sistema visual.", "anchor": "#system", "lede": "Paleta sobria, tipografía técnica y reglas de composición claras: lo que necesita una marca B2B para sobrevivir su día a día." },
+        { "num": "§ 04", "label": "Brandbook", "title": "<em>Brandbook</em> documentado.", "note": "Reglas de uso completas para sostener el sistema en el tiempo.", "anchor": "#brandbook" },
+        { "num": "§ 05", "label": "Aplicaciones", "title": "Aplicaciones que <em>aterrizan</em>.", "note": "Tarjetas y materiales corporativos como primera línea de marca.", "anchor": "#applications" }
+      ],
+      "interlude": {
+        "text": "Diferenciarse en telecom no exige ruido — exige <em>criterio</em> que aguante el día a día.",
+        "sigKicker": "— Criterio de identidad",
+        "sigContext": "Alfa Comunicaciones · 2024",
+        "hint": "las aplicaciones reales — cómo el sistema sobrevive en tarjetas y papelería corporativa."
+      },
+      "production": {
+        "stats": [
+          { "value": "1", "label": "Brandbook completo" },
+          { "value": "Sistema", "label": "Símbolo · paleta · tipografía", "wordValue": true },
+          { "value": "Autoría", "label": "Liderazgo total", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Símbolo", "detail": "Isotipo circular construido sobre los valores de marca." },
+          { "title": "Sistema visual", "detail": "Paleta, tipografía y reglas de composición documentadas." },
+          { "title": "Brandbook", "detail": "Documento de reglas de uso completo y aplicable en el tiempo." },
+          { "title": "Tarjetas", "detail": "Sistema de tarjetas de presentación corporativas." },
+          { "title": "Papelería", "detail": "Aplicaciones secundarias bajo el mismo sistema." }
+        ]
+      },
+      "proofText": "Una identidad <em>aplicable</em> y documentada: símbolo, sistema y brandbook para sostener la marca sin depender de quien la diseñó.",
+      "credits": [
+        { "label": "Cliente", "value": "Alfa Distribución y Servicios de Comunicación" },
+        { "label": "Industria", "value": "Telecomunicaciones · B2B" },
+        { "label": "Rol", "value": "Lead brand designer · sistema · brandbook" },
+        { "label": "Agencia", "value": "Intuitiva · Mérida" },
+        { "label": "Año", "value": "2024" },
+        { "label": "Tipo", "value": "Autoría completa · brandbook confirmado" }
+      ],
+      "seo": {
+        "title": "Alfa Comunicaciones — Caso de estudio · Julio Morcillo",
+        "description": "Identidad visual y brandbook para una empresa de telecomunicaciones — símbolo, sistema y aplicaciones corporativas."
+      }
+    },
+    "en": {
+      "hero": {
+        "eyebrow": "§ 01 — Identity · telecommunications",
+        "title": "Alfa <em>Comunicaciones</em>",
+        "discipline": "Branding · Identity · Print",
+        "manifesto": "Visual identity for a telecommunications company that needed to <strong>stand out without industry clichés</strong>: symbol, palette, typography and usage rules.",
+        "note": "Lead author of the full system. Conceptual and technical leadership from the symbol to the corporate applications.",
+        "caption": "A sober, technical, applicable language — built to live across cards, stationery and commercial materials without overdoing it.",
+        "role": "Lead brand designer · Visual identity",
+        "scope": "Symbol · System · Brandbook · Applications",
+        "keydata": [
+          "<b>Full</b> brandbook",
+          "<b>Full</b> authorship",
+          "<b>Telecom</b> · B2B"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Symbol", "title": "<em>Symbol</em> first.", "note": "Circular symbol built on the brand values.", "anchor": "#symbol", "lede": "A circular symbol built on the brand values — designed to reproduce at small sizes without losing legibility." },
+        { "num": "§ 03", "label": "System", "title": "The <em>full</em> system.", "note": "Palette, typography and composition rules of the visual system.", "anchor": "#system", "lede": "Sober palette, technical typography and clear composition rules: what a B2B brand needs to survive day to day." },
+        { "num": "§ 04", "label": "Brandbook", "title": "A documented <em>brandbook</em>.", "note": "Complete usage rules to sustain the system over time.", "anchor": "#brandbook" },
+        { "num": "§ 05", "label": "Applications", "title": "Applications that <em>land</em>.", "note": "Cards and corporate materials as the brand's front line.", "anchor": "#applications" }
+      ],
+      "interlude": {
+        "text": "Standing out in telecom doesn't require noise — it requires <em>criterion</em> that holds up day to day.",
+        "sigKicker": "— Identity criterion",
+        "sigContext": "Alfa Comunicaciones · 2024",
+        "hint": "the real applications — how the system survives across cards and corporate stationery."
+      },
+      "production": {
+        "stats": [
+          { "value": "1", "label": "Full brandbook" },
+          { "value": "System", "label": "Symbol · palette · type", "wordValue": true },
+          { "value": "Authorship", "label": "Full leadership", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Symbol", "detail": "Circular symbol built on the brand values." },
+          { "title": "Visual system", "detail": "Palette, typography and composition rules, documented." },
+          { "title": "Brandbook", "detail": "Complete usage document, applicable over time." },
+          { "title": "Cards", "detail": "Corporate business card system." },
+          { "title": "Stationery", "detail": "Secondary applications under the same system." }
+        ]
+      },
+      "proofText": "An <em>applicable</em>, documented identity: symbol, system and brandbook so the brand can sustain itself without depending on its designer.",
+      "credits": [
+        { "label": "Client", "value": "Alfa Distribución y Servicios de Comunicación" },
+        { "label": "Industry", "value": "Telecommunications · B2B" },
+        { "label": "Role", "value": "Lead brand designer · system · brandbook" },
+        { "label": "Agency", "value": "Intuitiva · Mérida" },
+        { "label": "Year", "value": "2024" },
+        { "label": "Type", "value": "Full authorship · confirmed brandbook" }
+      ],
+      "seo": {
+        "title": "Alfa Comunicaciones — Case study · Julio Morcillo",
+        "description": "Visual identity and brandbook for a telecommunications company — symbol, system and corporate applications."
+      }
+    }
+  },
+  "prev": {
+    "slug": "neuromuscular-mid",
+    "title": { "es": "Neuromuscular <em>MID</em>", "en": "Neuromuscular <em>MID</em>" },
+    "meta": { "es": "UI/UX · web · salud", "en": "UI/UX · web · healthcare" }
+  },
+  "next": {
+    "slug": "gbc",
+    "title": { "es": "<em>GBC</em>", "en": "<em>GBC</em>" },
+    "meta": { "es": "Brand rollout · construcción", "en": "Brand rollout · construction" }
+  }
+}

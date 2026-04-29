@@ -1,0 +1,132 @@
+{
+  "slug": "consentido",
+  "meta": {
+    "client": "ConSentido",
+    "year": "2025",
+    "url": null,
+    "agency": "Intuitiva · Mérida",
+    "datePublished": "2025-12-01"
+  },
+  "i18n": {
+    "es": {
+      "hero": {
+        "eyebrow": "§ 01 — Brand rollout · estancia vinícola",
+        "title": "Con<em>Sentido</em>",
+        "discipline": "Despliegue de marca · Impreso · Digital · Packaging",
+        "manifesto": "Trabajo de <strong>aplicación y despliegue</strong> para que una marca vinícola con presencia entre Uruguay y México funcionara con consistencia entre sedes, formatos y materiales.",
+        "note": "Colaboración dentro de un equipo reducido en Intuitiva: brandbook, submarcas, aplicaciones impresas y digitales a partir de una dirección visual definida.",
+        "caption": "A partir de una dirección visual definida, ordené aplicaciones, submarcas y criterios de producción para mantener coherencia entre Uruguay y México.",
+        "role": "Despliegue de marca · Arte final",
+        "scope": "Brandbook · Submarcas · Aplicaciones",
+        "keydata": [
+          "<b>16</b> páginas · brandbook",
+          "<b>2</b> sedes · UY / MX",
+          "<b>Impreso + Digital</b>"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "Sistema", "title": "Las reglas del <em>sistema</em>.", "note": "Reglas de marca: logo, paleta, tipografía y composición editorial.", "anchor": "#system", "lede": "Logo, paleta, tipografía y composición — los cuatro vértices que definen cómo se lee la marca antes de aplicarla." },
+        { "num": "§ 03", "label": "Aplicaciones", "title": "Adaptación a <em>verticales</em>.", "note": "Piezas verticales para canales sociales y aplicaciones móviles.", "anchor": "#applications", "lede": "Las aplicaciones mantienen la jerarquía editorial del sistema: piezas cuadradas, verticales y carruseles preparados según canal, no recortados por inercia." },
+        { "num": "§ 04", "label": "Producción", "title": "Entregables listos para <em>producir</em>.", "note": "Entregables listos para tiraje impreso y despliegue digital.", "anchor": "#production" },
+        { "num": "§ 05", "label": "Resultado", "title": "Coherencia <em>aplicada</em>.", "note": "Coherencia aplicada entre Uruguay y México sin sobreactuar el sistema.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "El reto no era rediseñar la marca — era hacer que cada <em>aplicación</em> mantuviera el mismo criterio.",
+        "sigKicker": "— Criterio de despliegue",
+        "sigContext": "ConSentido · 2025",
+        "hint": "los entregables concretos — qué se produjo, en qué formatos y para qué canales."
+      },
+      "production": {
+        "stats": [
+          { "value": "16", "label": "Páginas · brandbook" },
+          { "value": "12", "label": "Piezas · aplicaciones" },
+          { "value": "2", "label": "Sedes · UY / MX" },
+          { "value": "Impreso + Digital", "label": "Canales desplegados", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Brandbook", "detail": "Documento editorial de 16 páginas — criterios, jerarquía y arte final." },
+          { "title": "Submarcas", "detail": "Sistema de arquitectura visual entre sedes." },
+          { "title": "Packaging", "detail": "Familia de vinos con etiqueta frontal preparada para tiraje impreso." },
+          { "title": "Social", "detail": "Posts cuadrados, stories verticales y carruseles editoriales." },
+          { "title": "Editorial", "detail": "Spreads tipográficos para piezas digitales e impresas." }
+        ]
+      },
+      "proofText": "El sistema quedó preparado para convivir entre <em>Uruguay y México</em>: mismas reglas, distintos formatos y una lectura consistente en puntos de contacto impresos y digitales.",
+      "credits": [
+        { "label": "Cliente", "value": "ConSentido" },
+        { "label": "Industria", "value": "Estancia vinícola · hospitalidad" },
+        { "label": "Rol", "value": "Despliegue de marca · arte final · aplicaciones" },
+        { "label": "Agencia", "value": "Intuitiva · Mérida" },
+        { "label": "Año", "value": "2025" },
+        { "label": "Sedes", "value": "Uruguay · México" }
+      ],
+      "seo": {
+        "title": "ConSentido — Caso de estudio · Julio Morcillo",
+        "description": "Despliegue de marca, brandbook y aplicaciones para una estancia vinícola con presencia entre Uruguay y México."
+      }
+    },
+    "en": {
+      "hero": {
+        "eyebrow": "§ 01 — Brand rollout · winery estate",
+        "title": "Con<em>Sentido</em>",
+        "discipline": "Brand rollout · Print · Digital · Packaging",
+        "manifesto": "<strong>Application and rollout</strong> work for a winery brand with locations in Uruguay and Mexico — keeping consistency across sites, formats and materials.",
+        "note": "Collaboration within a small Intuitiva team: brandbook, sub-brands, print and digital applications built from an existing visual direction.",
+        "caption": "From a defined visual direction, I organised applications, sub-brands and production criteria to keep coherence across Uruguay and Mexico.",
+        "role": "Brand rollout · Final art",
+        "scope": "Brandbook · Sub-brands · Applications",
+        "keydata": [
+          "<b>16</b> pages · brandbook",
+          "<b>2</b> locations · UY / MX",
+          "<b>Print + Digital</b>"
+        ]
+      },
+      "chapters": [
+        { "num": "§ 02", "label": "System", "title": "The rules of the <em>system</em>.", "note": "Brand rules: logo, palette, typography and editorial composition.", "anchor": "#system", "lede": "Logo, palette, typography and composition — the four pillars that define how the brand reads before any application." },
+        { "num": "§ 03", "label": "Applications", "title": "Adapted to <em>verticals</em>.", "note": "Vertical pieces for social channels and mobile applications.", "anchor": "#applications", "lede": "The applications keep the system's editorial hierarchy: square posts, verticals and carousels prepared per channel, not cropped by inertia." },
+        { "num": "§ 04", "label": "Production", "title": "Deliverables ready for <em>production</em>.", "note": "Files ready for print runs and digital deployment.", "anchor": "#production" },
+        { "num": "§ 05", "label": "Result", "title": "Coherence <em>applied</em>.", "note": "Coherence applied across Uruguay and Mexico without overdoing the system.", "anchor": "#results" }
+      ],
+      "interlude": {
+        "text": "The challenge wasn't to redesign the brand — it was to make sure every <em>application</em> held the same criterion.",
+        "sigKicker": "— Rollout criterion",
+        "sigContext": "ConSentido · 2025",
+        "hint": "the concrete deliverables — what was produced, in which formats and for which channels."
+      },
+      "production": {
+        "stats": [
+          { "value": "16", "label": "Pages · brandbook" },
+          { "value": "12", "label": "Pieces · applications" },
+          { "value": "2", "label": "Locations · UY / MX" },
+          { "value": "Print + Digital", "label": "Channels deployed", "wordValue": true }
+        ],
+        "deliverables": [
+          { "title": "Brandbook", "detail": "16-page editorial document — criteria, hierarchy and final art." },
+          { "title": "Sub-brands", "detail": "Visual architecture system across locations." },
+          { "title": "Packaging", "detail": "Wine family with front label ready for print runs." },
+          { "title": "Social", "detail": "Square posts, vertical stories and editorial carousels." },
+          { "title": "Editorial", "detail": "Typographic spreads for digital and print pieces." }
+        ]
+      },
+      "proofText": "The system was ready to live across <em>Uruguay and Mexico</em>: same rules, different formats and a consistent read across print and digital touchpoints.",
+      "credits": [
+        { "label": "Client", "value": "ConSentido" },
+        { "label": "Industry", "value": "Winery estate · hospitality" },
+        { "label": "Role", "value": "Brand rollout · final art · applications" },
+        { "label": "Agency", "value": "Intuitiva · Mérida" },
+        { "label": "Year", "value": "2025" },
+        { "label": "Locations", "value": "Uruguay · Mexico" }
+      ],
+      "seo": {
+        "title": "ConSentido — Case study · Julio Morcillo",
+        "description": "Brand rollout, brandbook and applications for a winery estate with locations across Uruguay and Mexico."
+      }
+    }
+  },
+  "prev": null,
+  "next": {
+    "slug": "vi-summit",
+    "title": { "es": "VI <em>Summit</em>", "en": "VI <em>Summit</em>" },
+    "meta": { "es": "Sistema de evento · agroindustria", "en": "Event system · agribusiness" }
+  }
+}
