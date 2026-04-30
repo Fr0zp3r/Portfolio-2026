@@ -1626,6 +1626,54 @@ html.capture-mode .lightbox {
   .production__stat:nth-child(even) { padding-left: 0; }
 }
 
+/* ============ MEDIA BLOCK · external video embeds (mp4 + YouTube) ============ */
+.mediaBlock {
+  padding: 0 var(--pad) clamp(40px, 6vw, 80px);
+}
+.mediaBlock__grid {
+  display: grid;
+  gap: var(--gutter);
+  grid-template-columns: 1fr;
+}
+.mediaBlock__grid--vertical {
+  max-width: 720px;
+  margin: 0 auto;
+}
+@media (min-width: 720px) {
+  .mediaBlock__grid--vertical { grid-template-columns: repeat(2, 1fr); }
+}
+.mediaBlock__item {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 0;
+}
+.mediaBlock__media {
+  position: relative;
+  width: 100%;
+  background: var(--bone-deep);
+  overflow: hidden;
+  border-radius: 2px;
+}
+.mediaBlock__media--vertical   { aspect-ratio: 9/16; }
+.mediaBlock__media--horizontal { aspect-ratio: 16/9; }
+.mediaBlock__media video,
+.mediaBlock__media iframe {
+  position: absolute; inset: 0;
+  width: 100%; height: 100%;
+  border: 0;
+  display: block;
+}
+.mediaBlock__caption {
+  font-family: var(--mono);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-mute);
+  line-height: 1.5;
+}
+.mediaBlock__caption b { color: var(--ink); font-weight: 500; text-transform: none; letter-spacing: 0; }
+
 /* Reduced motion */
 @media (prefers-reduced-motion: reduce) {
   .snapshot--index a.snapshot__item:hover .snapshot__arrow,

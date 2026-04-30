@@ -90,6 +90,12 @@ const PER_SLUG = {
       'Gafete y lanyard del VI Summit Internacional del Espárrago — sistema gráfico del congreso': 'Badge and lanyard of the VI Summit Internacional del Espárrago — congress graphic system',
       'Gafete con lanyard del VI Summit': 'Badge with lanyard of the VI Summit',
       'Sistema de credenciales del VI Summit': 'VI Summit credential system',
+      // Video block captions (mediaBlock — YouTube embeds)
+      'Grabación del evento': 'Event recording',
+      'Anuncio promocional': 'Promotional ad',
+      'campaña pre-evento': 'pre-event campaign',
+      'VI Summit Internacional del Espárrago — grabación del evento': 'VI Summit Internacional del Espárrago — event recording',
+      'VI Summit Internacional del Espárrago — anuncio promocional': 'VI Summit Internacional del Espárrago — promotional ad',
       // Hero card values
       'Production designer · Despliegue gráfico': 'Production designer · Graphic rollout'
     }
@@ -174,6 +180,8 @@ const PER_SLUG = {
       'Pieza Corber semana de diciembre': 'Corber piece — December week',
       'Pieza Corber campaña digital': 'Corber piece — digital campaign',
       'Pieza Corber comunicación constante': 'Corber piece — constant communication',
+      // Video block captions (mediaBlock)
+      'pieza vertical para canales sociales': 'vertical piece for social channels',
       // Hero card row values
       'Reels · Artes · Copy': 'Reels · Graphics · Copy'
     }
@@ -218,6 +226,8 @@ const PER_SLUG = {
       'Post B2B de Chint — campaña multimedia para componentes eléctricos': 'Chint B2B post — multimedia campaign for electrical components',
       'Pieza Chint protege tus sistemas': 'Chint piece — protect your systems',
       'Pieza Chint ahorro de energía renovable': 'Chint piece on renewable-energy savings',
+      // Video block captions (mediaBlock)
+      'reel B2B para canales digitales': 'B2B reel for digital channels',
       // Hero card row values
       'Piezas · Reels · Producto': 'Pieces · Reels · Product'
     }
