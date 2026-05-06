@@ -12,7 +12,7 @@ See: .planning/PROJECT.md (updated 2026-05-05)
 Phase: 1 of 5 (Launch Audit Baseline)
 Plan: 0 of 3 in current phase
 Status: Ready to plan
-Last activity: 2026-05-05 - Project initialized from user direction and existing codebase map
+Last activity: 2026-05-06 - Completed quick task 260506: Hero project-list tape CTA
 
 Progress: [----------] 0%
 
@@ -54,6 +54,12 @@ None yet.
 - Existing working tree is dirty with many production-looking changes and local artifacts; final staging must be deliberate.
 - No automated test suite exists; launch QA must use static server, syntax checks, screenshots, and manual interaction checks.
 - `gsd-sdk` is not available in this runtime, so GSD artifacts are maintained inline.
+
+### Quick Tasks Completed
+
+| # | Description | Date | Commit | Directory |
+|---|-------------|------|--------|-----------|
+| 260506 | Hero project-list tape CTA | 2026-05-06 | 7bc79a9 | [260506-hero-project-list-tape](./quick/260506-hero-project-list-tape/) |
 
 ## Deferred Items
 
