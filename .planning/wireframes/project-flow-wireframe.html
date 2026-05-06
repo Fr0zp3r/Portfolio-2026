@@ -1,0 +1,644 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wireframe comparativo - Portfolio Julio Morcillo</title>
+  <style>
+    @font-face {
+      font-family: "Fraunces";
+      src: url("../../assets/fonts/Fraunces-VariableFont_SOFT,WONK,opsz,wght.ttf") format("truetype-variations");
+      font-weight: 100 900;
+      font-display: swap;
+    }
+
+    @font-face {
+      font-family: "Fraunces";
+      src: url("../../assets/fonts/Fraunces-Italic-VariableFont_SOFT,WONK,opsz,wght.ttf") format("truetype-variations");
+      font-style: italic;
+      font-weight: 100 900;
+      font-display: swap;
+    }
+
+    @font-face {
+      font-family: "Archivo";
+      src: url("../../assets/fonts/Archivo-VariableFont_wdth,wght.ttf") format("truetype-variations");
+      font-weight: 300 700;
+      font-display: swap;
+    }
+
+    :root {
+      --bone: #EFEAE0;
+      --bone-deep: #E6DFD1;
+      --ink: #141210;
+      --ink-soft: #2A2723;
+      --ink-mute: #6B665D;
+      --rust: #B8432A;
+      --rust-deep: #8F3320;
+      --line: rgba(20, 18, 16, 0.12);
+      --line-strong: rgba(20, 18, 16, 0.25);
+      --pad: clamp(16px, 2.5vw, 40px);
+      --gutter: clamp(12px, 1.5vw, 24px);
+      --display: "Fraunces", Georgia, serif;
+      --sans: "Archivo", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      --mono: ui-monospace, SFMono-Regular, Consolas, monospace;
+      --trans-fast: 200ms cubic-bezier(.7, 0, .2, 1);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bone);
+      color: var(--ink);
+      font-family: var(--sans);
+      font-size: 16px;
+      line-height: 1.45;
+    }
+
+    em {
+      color: var(--rust);
+      font-family: var(--display);
+      font-style: italic;
+      font-variation-settings: "opsz" 144, "SOFT" 100, "wght" 300;
+    }
+
+    .wire {
+      min-height: 100vh;
+      padding: clamp(28px, 5vw, 72px) var(--pad);
+    }
+
+    .wire__header {
+      display: grid;
+      grid-template-columns: minmax(0, 1.1fr) minmax(260px, .9fr);
+      gap: clamp(28px, 5vw, 72px);
+      align-items: end;
+      border-bottom: 1px solid var(--line-strong);
+      padding-bottom: clamp(28px, 4vw, 48px);
+    }
+
+    .wire__tag,
+    .flow__eyebrow,
+    .screen__label,
+    .route__meta,
+    .legend__item,
+    .note__label {
+      color: var(--ink-mute);
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: .08em;
+      line-height: 1.2;
+      text-transform: uppercase;
+    }
+
+    .wire__title {
+      max-width: 980px;
+      margin: 14px 0 0;
+      font-family: var(--display);
+      font-size: clamp(48px, 8vw, 116px);
+      font-variation-settings: "opsz" 144, "SOFT" 20, "wght" 380;
+      letter-spacing: -.045em;
+      line-height: .9;
+    }
+
+    .wire__lede {
+      max-width: 560px;
+      margin: 0;
+      color: var(--ink-soft);
+      font-family: var(--display);
+      font-size: clamp(19px, 2vw, 26px);
+      font-variation-settings: "opsz" 14, "SOFT" 50, "wght" 400;
+      letter-spacing: -.015em;
+    }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 18px;
+    }
+
+    .legend__item {
+      border: 1px solid var(--line);
+      padding: 8px 10px;
+    }
+
+    .flows {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: var(--gutter);
+      padding-top: clamp(28px, 4vw, 48px);
+    }
+
+    .flow {
+      min-width: 0;
+      border-top: 2px solid var(--ink);
+      padding-top: clamp(18px, 2vw, 26px);
+    }
+
+    .flow--explore {
+      border-color: var(--rust);
+    }
+
+    .flow__head {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 16px;
+      align-items: start;
+      min-height: 126px;
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 18px;
+    }
+
+    .flow__title {
+      margin: 8px 0 0;
+      font-family: var(--display);
+      font-size: clamp(30px, 4vw, 54px);
+      font-variation-settings: "opsz" 144, "SOFT" 30, "wght" 380;
+      letter-spacing: -.035em;
+      line-height: .95;
+    }
+
+    .flow__summary {
+      max-width: 440px;
+      margin: 12px 0 0;
+      color: var(--ink-soft);
+      font-size: 15px;
+    }
+
+    .flow__score {
+      display: grid;
+      width: 92px;
+      aspect-ratio: 1;
+      place-items: center;
+      border: 1px solid var(--line-strong);
+      font-family: var(--display);
+      font-size: 30px;
+      font-variation-settings: "opsz" 144, "SOFT" 0, "wght" 400;
+    }
+
+    .route {
+      display: grid;
+      gap: 14px;
+      margin-top: 22px;
+    }
+
+    .screen {
+      position: relative;
+      display: grid;
+      grid-template-columns: 92px minmax(0, 1fr);
+      gap: 14px;
+      min-height: 112px;
+      border: 1px solid var(--line);
+      background: rgba(239, 234, 224, .72);
+      padding: 14px;
+      transition: transform var(--trans-fast), border-color var(--trans-fast), background var(--trans-fast);
+    }
+
+    .screen:hover {
+      transform: translateY(-2px);
+      border-color: var(--line-strong);
+      background: var(--bone-deep);
+    }
+
+    .screen::before {
+      content: "";
+      position: absolute;
+      left: 27px;
+      top: -15px;
+      width: 1px;
+      height: 14px;
+      background: var(--line-strong);
+    }
+
+    .screen:first-child::before {
+      display: none;
+    }
+
+    .screen--entry {
+      border-color: var(--ink);
+    }
+
+    .screen--choice {
+      border-color: rgba(184, 67, 42, .5);
+    }
+
+    .screen--deep {
+      background: var(--bone-deep);
+    }
+
+    .screen--contact {
+      background: var(--ink);
+      color: var(--bone);
+    }
+
+    .screen--contact .screen__label,
+    .screen--contact .route__meta {
+      color: rgba(239, 234, 224, .65);
+    }
+
+    .screen__number {
+      display: block;
+      color: var(--rust);
+      font-family: var(--display);
+      font-size: 42px;
+      font-variation-settings: "opsz" 144, "SOFT" 0, "wght" 400;
+      letter-spacing: -.02em;
+      line-height: .9;
+    }
+
+    .screen__title {
+      margin: 6px 0 0;
+      font-family: var(--display);
+      font-size: clamp(22px, 2.8vw, 34px);
+      font-variation-settings: "opsz" 144, "SOFT" 30, "wght" 400;
+      letter-spacing: -.035em;
+      line-height: 1;
+    }
+
+    .screen__text {
+      max-width: 460px;
+      margin: 8px 0 0;
+      color: inherit;
+      font-size: 14px;
+    }
+
+    .screen__grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 6px;
+      margin-top: 12px;
+    }
+
+    .screen__bar,
+    .screen__tile {
+      display: block;
+      min-height: 10px;
+      border: 1px solid currentColor;
+      opacity: .42;
+    }
+
+    .screen__tile {
+      aspect-ratio: 4 / 3;
+    }
+
+    .screen__bar {
+      width: 100%;
+    }
+
+    .screen__bar:nth-child(2) {
+      width: 76%;
+    }
+
+    .screen__bar:nth-child(3) {
+      width: 48%;
+    }
+
+    .split {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(180px, .68fr);
+      gap: 10px;
+      margin-top: 12px;
+    }
+
+    .phone {
+      border: 1px solid var(--line-strong);
+      background: var(--bone);
+      padding: 8px;
+    }
+
+    .phone__top {
+      height: 9px;
+      border-bottom: 1px solid var(--line);
+      margin-bottom: 8px;
+    }
+
+    .phone__hero {
+      height: 54px;
+      background: var(--ink);
+      margin-bottom: 8px;
+    }
+
+    .phone__work {
+      display: grid;
+      grid-template-columns: 38% 1fr;
+      gap: 6px;
+      min-height: 34px;
+      border-top: 1px solid var(--line);
+      padding-top: 6px;
+      margin-top: 6px;
+    }
+
+    .phone__thumb {
+      background: var(--bone-deep);
+      border: 1px solid var(--line);
+    }
+
+    .phone__line {
+      display: block;
+      height: 5px;
+      background: var(--ink);
+      opacity: .24;
+      margin-bottom: 5px;
+    }
+
+    .phone__line:nth-child(2) {
+      width: 74%;
+    }
+
+    .phone__line:nth-child(3) {
+      width: 52%;
+    }
+
+    .note {
+      display: grid;
+      gap: 8px;
+      border-top: 1px solid var(--line-strong);
+      margin-top: clamp(28px, 4vw, 48px);
+      padding-top: 18px;
+    }
+
+    .note__body {
+      max-width: 1000px;
+      margin: 0;
+      color: var(--ink-soft);
+      font-family: var(--display);
+      font-size: clamp(22px, 3vw, 36px);
+      font-variation-settings: "opsz" 20, "SOFT" 30, "wght" 380;
+      letter-spacing: -.015em;
+      line-height: 1.08;
+    }
+
+    @media (max-width: 980px) {
+      .wire__header,
+      .flows {
+        grid-template-columns: 1fr;
+      }
+
+      .flow__head {
+        min-height: 0;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .wire {
+        padding-top: 24px;
+      }
+
+      .wire__title {
+        font-size: clamp(42px, 16vw, 76px);
+      }
+
+      .flow__head,
+      .screen {
+        grid-template-columns: 1fr;
+      }
+
+      .flow__score {
+        width: 76px;
+      }
+
+      .split {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="wire">
+    <header class="wire__header">
+      <div>
+        <div class="wire__tag">Wireframe visual / decision de flujo</div>
+        <h1 class="wire__title">Home lineal vs. home + <em>project list</em>.</h1>
+      </div>
+      <div>
+        <p class="wire__lede">
+          Dos recorridos complementarios para el cierre del portafolio: uno rapido para contratar por criterio,
+          otro exploratorio para revisar profundidad sin depender del footer.
+        </p>
+        <div class="legend" aria-label="Leyenda del wireframe">
+          <span class="legend__item">lectura rapida</span>
+          <span class="legend__item">exploracion</span>
+          <span class="legend__item">mobile first</span>
+          <span class="legend__item">calidad premium</span>
+        </div>
+      </div>
+    </header>
+
+    <section class="flows" aria-label="Comparativa de arquitectura">
+      <article class="flow">
+        <div class="flow__head">
+          <div>
+            <div class="flow__eyebrow">Opcion A / Estado actual refinado</div>
+            <h2 class="flow__title">Una sola pagina editorial.</h2>
+            <p class="flow__summary">
+              El index hace casi todo: presenta criterio, selecciona proyectos clave, entrega confianza y conduce a contacto.
+              Es la ruta mas eficiente para visitantes con poco tiempo.
+            </p>
+          </div>
+          <div class="flow__score" aria-label="Prioridad alta">A</div>
+        </div>
+
+        <div class="route">
+          <section class="screen screen--entry">
+            <div>
+              <span class="screen__number">01</span>
+              <div class="screen__label">Index / above the fold</div>
+            </div>
+            <div>
+              <h3 class="screen__title">Hero con impacto inmediato.</h3>
+              <p class="screen__text">Nombre, disciplina, disponibilidad, frase editorial y entrada visual controlada.</p>
+              <div class="split" aria-hidden="true">
+                <div>
+                  <span class="screen__bar"></span>
+                  <span class="screen__bar"></span>
+                  <span class="screen__bar"></span>
+                </div>
+                <div class="phone">
+                  <div class="phone__top"></div>
+                  <div class="phone__hero"></div>
+                  <span class="phone__line"></span>
+                  <span class="phone__line"></span>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section class="screen">
+            <div>
+              <span class="screen__number">02</span>
+              <div class="screen__label">Criterio</div>
+            </div>
+            <div>
+              <h3 class="screen__title">Indice, manifiesto y clientes.</h3>
+              <p class="screen__text">Construye confianza antes de mostrar volumen. Ideal para una lectura lineal.</p>
+              <div class="screen__grid" aria-hidden="true">
+                <span class="screen__tile"></span>
+                <span class="screen__tile"></span>
+                <span class="screen__tile"></span>
+              </div>
+            </div>
+          </section>
+
+          <section class="screen screen--deep">
+            <div>
+              <span class="screen__number">03</span>
+              <div class="screen__label">Trabajos seleccionados</div>
+            </div>
+            <div>
+              <h3 class="screen__title">VI Summit, ConSentido, AMXiTech.</h3>
+              <p class="screen__text">Pocas piezas, alta curaduria. Cada bloque debe sentirse premium en mobile y desktop.</p>
+              <div class="screen__grid" aria-hidden="true">
+                <span class="screen__tile"></span>
+                <span class="screen__tile"></span>
+                <span class="screen__tile"></span>
+                <span class="screen__tile"></span>
+                <span class="screen__tile"></span>
+                <span class="screen__tile"></span>
+              </div>
+            </div>
+          </section>
+
+          <section class="screen">
+            <div>
+              <span class="screen__number">04</span>
+              <div class="screen__label">Prueba</div>
+            </div>
+            <div>
+              <h3 class="screen__title">Approach, quote, experiencia.</h3>
+              <p class="screen__text">La contratacion se apoya en proceso, autoria honesta y consistencia visual.</p>
+            </div>
+          </section>
+
+          <section class="screen screen--contact">
+            <div>
+              <span class="screen__number">05</span>
+              <div class="screen__label">Cierre</div>
+            </div>
+            <div>
+              <h3 class="screen__title">Contacto + footer.</h3>
+              <p class="screen__text">Funciona si el visitante siguio el relato. Riesgo: quien quiera explorar mas depende del pie.</p>
+              <div class="route__meta">Footer como ultimo mapa</div>
+            </div>
+          </section>
+        </div>
+      </article>
+
+      <article class="flow flow--explore">
+        <div class="flow__head">
+          <div>
+            <div class="flow__eyebrow">Opcion B / Index + pagina aparte</div>
+            <h2 class="flow__title">Home editorial + directorio.</h2>
+            <p class="flow__summary">
+              El index mantiene la narrativa rapida, pero suma un CTA sobrio despues de trabajos. La pagina aparte sirve
+              como mapa interactivo para clientes o estudios que quieren revisar profundidad.
+            </p>
+          </div>
+          <div class="flow__score" aria-label="Prioridad ultima fase">B</div>
+        </div>
+
+        <div class="route">
+          <section class="screen screen--entry">
+            <div>
+              <span class="screen__number">01</span>
+              <div class="screen__label">Index / mismo impacto</div>
+            </div>
+            <div>
+              <h3 class="screen__title">Hero, criterio, casos clave.</h3>
+              <p class="screen__text">No se reduce la magia del home. El directorio aparece como expansion, no como reemplazo.</p>
+              <div class="split" aria-hidden="true">
+                <div class="phone">
+                  <div class="phone__top"></div>
+                  <div class="phone__hero"></div>
+                  <div class="phone__work">
+                    <span class="phone__thumb"></span>
+                    <span>
+                      <span class="phone__line"></span>
+                      <span class="phone__line"></span>
+                      <span class="phone__line"></span>
+                    </span>
+                  </div>
+                </div>
+                <div>
+                  <span class="screen__bar"></span>
+                  <span class="screen__bar"></span>
+                  <span class="screen__bar"></span>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section class="screen screen--choice">
+            <div>
+              <span class="screen__number">02</span>
+              <div class="screen__label">Micro CTA</div>
+            </div>
+            <div>
+              <h3 class="screen__title">Explorar archivo de proyectos.</h3>
+              <p class="screen__text">Una franja pequena bajo trabajos seleccionados. Invita a profundizar sin cortar el scroll lineal.</p>
+              <div class="route__meta">CTA recomendado: "ver mapa de proyectos"</div>
+            </div>
+          </section>
+
+          <section class="screen screen--deep">
+            <div>
+              <span class="screen__number">03</span>
+              <div class="screen__label">/projects</div>
+            </div>
+            <div>
+              <h3 class="screen__title">Directorio como sistema editorial.</h3>
+              <p class="screen__text">Filtros por disciplina, casos destacados y lista densa. Debe sentirse curado, no catalogo generico.</p>
+              <div class="screen__grid" aria-hidden="true">
+                <span class="screen__tile"></span>
+                <span class="screen__tile"></span>
+                <span class="screen__tile"></span>
+                <span class="screen__tile"></span>
+                <span class="screen__tile"></span>
+                <span class="screen__tile"></span>
+                <span class="screen__tile"></span>
+                <span class="screen__tile"></span>
+                <span class="screen__tile"></span>
+              </div>
+            </div>
+          </section>
+
+          <section class="screen">
+            <div>
+              <span class="screen__number">04</span>
+              <div class="screen__label">Decision assist</div>
+            </div>
+            <div>
+              <h3 class="screen__title">Ruta por intencion.</h3>
+              <p class="screen__text">Branding completo, web, contenido, eventos, proyectos bajo direccion o colaboracion.</p>
+              <div class="route__meta">Cada item puede abrir caso, preview o contacto</div>
+            </div>
+          </section>
+
+          <section class="screen screen--contact">
+            <div>
+              <span class="screen__number">05</span>
+              <div class="screen__label">Cierre doble</div>
+            </div>
+            <div>
+              <h3 class="screen__title">Caso puntual o contacto.</h3>
+              <p class="screen__text">El usuario puede volver al home, abrir un caso o contactar desde una decision mas informada.</p>
+              <div class="route__meta">Footer deja de ser la unica navegacion profunda</div>
+            </div>
+          </section>
+        </div>
+      </article>
+    </section>
+
+    <section class="note" aria-label="Recomendacion">
+      <div class="note__label">Lectura de estrategia</div>
+      <p class="note__body">
+        La mejor version no es elegir entre narrativa y exploracion. Es mantener el index como recorrido de contratacion
+        rapida y dejar `/projects` para la persona que necesita pruebas, comparacion y profundidad. Por eso el directorio
+        queda al final del roadmap: primero se pule mobile, motion e imagen; despues se decide si el mapa suma sin diluir.
+      </p>
+    </section>
+  </main>
+</body>
+</html>
