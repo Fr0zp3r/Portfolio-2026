@@ -17,7 +17,32 @@
 
   const storedLang = readStoredLang();
   const browserLang = navigator.language || '';
-  const initialLang = storedLang || (browserLang.startsWith('en') ? 'en' : 'es');
+
+  // Case study pages are static per-language (works/* = ES, en/works/* = EN).
+  // Detect the page's intrinsic language from the URL so the toggle stays
+  // truthful and we can navigate to the sibling page on click.
+  const detectPageLang = () => {
+    const path = window.location.pathname;
+    if (/(^|\/)en\/works\//.test(path)) return 'en';
+    if (/(^|\/)works\//.test(path)) return 'es';
+    return null;
+  };
+
+  const pageLang = detectPageLang();
+  const initialLang = pageLang || storedLang || (browserLang.startsWith('en') ? 'en' : 'es');
+
+  const swapCaseStudyUrl = (targetLang) => {
+    const path = window.location.pathname;
+    const search = window.location.search;
+    const hash = window.location.hash;
+    let next;
+    if (targetLang === 'en') {
+      next = path.replace(/(^|\/)works\//, '$1en/works/');
+    } else {
+      next = path.replace(/(^|\/)en\/works\//, '$1works/');
+    }
+    return next + search + hash;
+  };
 
   const normalizeLang = (lang) => (
     SUPPORTED_LANGS.includes(lang) ? lang : FALLBACK_LANG
@@ -183,7 +208,18 @@
 
   const bindLanguageToggle = () => {
     document.querySelectorAll('.nav__lang [data-lang]').forEach(option => {
-      const activate = () => window.setLang(option.dataset.lang);
+      const activate = () => {
+        const targetLang = normalizeLang(option.dataset.lang);
+        // On case study pages (which are static per-language), navigate to
+        // the sibling page in the other language instead of doing an
+        // in-place swap that would leave content untranslated.
+        if (pageLang && pageLang !== targetLang) {
+          persistLang(targetLang);
+          window.location.assign(swapCaseStudyUrl(targetLang));
+          return;
+        }
+        window.setLang(targetLang);
+      };
 
       option.addEventListener('click', activate);
 
